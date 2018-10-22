@@ -1,0 +1,896 @@
+analysis_id	matrix_id	plot_name	locality_desc	lat	lon	elev_mean	plot_age	plot_agestdev	num_taxa
+36455	28716	ALLEN2	Allen Canyon Cave: Abajo Mountains	37.792	-109.592	2195 m	7200	90	14
+36456	28717	ALLEN4	Allen Canyon Cave: Abajo Mountains	37.792	-109.592	2195 m	1820	50	12
+36457	28718	ALLEN5	Allen Canyon Cave: Abajo Mountains	37.792	-109.592	2195 m	3000	70	17
+36458	28719	ALLEN6	Allen Canyon Cave: Abajo Mountains	37.792	-109.592	2195 m	3400	60	16
+36459	28720	ALLEN7	Allen Canyon Cave: Abajo Mountains	37.792	-109.592	2195 m	11310	200	20
+36460	28721	ALLEN9	Allen Canyon Cave: Abajo Mountains	37.792	-109.592	2195 m	10070	70	12
+36461	28722	C-1	Corsair: Alabama Hills	36.622	-118.150	1535 m	8700	80	10
+36462	28723	LUC-1	Lubkin Canyon: Alabama Hills	36.533	-118.050	1264 m	5090	90	10
+36463	28724	LUC-2	Lubkin Canyon: Alabama Hills	36.533	-118.050	1264 m	5610	60	6
+36464	28725	LUC-4	Lubkin Canyon: Alabama Hills	36.533	-118.050	1264 m	7990	50	11
+36465	28726	LUC-5	Lubkin Canyon: Alabama Hills	36.533	-118.050	1264 m	7840	100	9
+36466	28727	LUC-S	Lubkin Canyon: Alabama Hills	36.533	-118.050	1264 m	2800	100	7
+36467	28728	LUC-SE	Lubkin Canyon: Alabama Hills	36.533	-118.050	1264 m	9460	50	9
+36468	28729	TG-A	Two Goblin: Alabama Hills	36.625	-118.125	1460 m	7840	70	12
+36469	28730	TG-BL	Two Goblin: Alabama Hills	36.625	-118.125	1460 m	2830	90	13
+36470	28731	TG-BU	Two Goblin: Alabama Hills	36.625	-118.125	1460 m	3720	80	11
+36471	28732	TG-E-1	Two Goblin: Alabama Hills	36.625	-118.125	1460 m	19070	190	10
+36472	28733	TG-E-3	Two Goblin: Alabama Hills	36.625	-118.125	1460 m	13350	110	9
+36473	28734	TG-E-4B	Two Goblin: Alabama Hills	36.625	-118.125	1460 m	17760	120	5
+36474	28735	TG-E-4T	Two Goblin: Alabama Hills	36.625	-118.125	1460 m	31450	510	9
+36475	28736	TG-FA-2	Two Goblin: Alabama Hills	36.625	-118.125	1460 m	9540	100	11
+36476	28737	TG-FA-3	Two Goblin: Alabama Hills	36.625	-118.125	1460 m	7700	60	15
+36477	28738	TG-FM	Two Goblin: Alabama Hills	36.625	-118.125	1460 m	0	0	10
+36478	28739	OC1	Owl Canyon NV: Amargosa Desert	36.400	-116.233	790 m	13150	500	10
+36479	28740	OC2(1)	Owl Canyon NV: Amargosa Desert	36.407	-116.240	800 m	10260	520	10
+36480	28741	OC2(2)	Owl Canyon NV: Amargosa Desert	36.407	-116.240	800 m	10070	220	11
+36481	28742	OC3(1)	Owl Canyon NV: Amargosa Desert	36.405	-116.241	790 m	32870	1370	11
+36482	28743	OC3(2)	Owl Canyon NV: Amargosa Desert	36.405	-116.241	790 m	28701	0	9
+36483	28744	OC3(MOD)	Owl Canyon NV: Amargosa Desert	36.405	-116.241	790 m	0	0	16
+36484	28745	PR2(2)	Point of Rocks: Amargosa Desert	36.563	-116.082	930 m	9560	220	15
+36485	28746	PR2(3)	Point of Rocks: Amargosa Desert	36.563	-116.082	930 m	9260	180	19
+36486	28747	PR1B(3)	Point of Rocks: Amargosa Desert	36.570	-116.079	900 m	11680	650	13
+36487	28748	PR3(5)	Point of Rocks: Amargosa Desert	36.569	-116.086	910 m	14810	400	16
+36488	28749	RR2	Red Rocks: Antelope Island	40.945	-112.234	1490 m	2420	30	7
+36489	28750	SENC4	Sentry Cave: Antelope Island	40.917	-112.199	1607 m	2060	50	5
+36490	28751	BA03	Bison Alcove: Arches National Park	38.733	-109.500	1317 m	16460	170	8
+36491	28752	BA04	Bison Alcove: Arches National Park	38.733	-109.500	1317 m	15270	230	6
+36492	28753	BA05	Bison Alcove: Arches National Park	38.733	-109.500	1317 m	1930	80	10
+36493	28754	BA07a	Bison Alcove: Arches National Park	38.733	-109.500	1317 m	1860	70	8
+36494	28755	BA10	Bison Alcove: Arches National Park	38.733	-109.500	1317 m	2660	60	10
+36495	28756	BA12	Bison Alcove: Arches National Park	38.733	-109.500	1317 m	15250	100	6
+36496	28757	BA13	Bison Alcove: Arches National Park	38.733	-109.500	1317 m	20050	160	8
+36497	28758	BA15	Bison Alcove: Arches National Park	38.733	-109.500	1317 m	16530	100	6
+36498	28759	A1	Artillery Mountains: Artillery Mountains	34.333	-113.600	615 m	10250	200	12
+36499	28760	SSF	Sierra de San Francisco: Baja California Sur	27.542	-113.100	780 m	10219	160	5
+36500	28761	PV1	Puerto de Ventanillas: Bolson de Mapimi	26.033	-102.733	1370 m	12700	165	12
+36501	28762	MUERTO1	Canyon del Muerto: Canyon de Chelly National Monument	36.146	-109.421	1770 m	11900	300	12
+36502	28763	MUERTO2	Canyon del Muerto: Canyon de Chelly National Monument	36.163	-109.421	1770 m	3120	110	12
+36503	28764	CCYN1A	Cowboy Canyon: Canyonlands	38.318	-110.202	1722 m	730	60	8
+36504	28765	CCYN1B	Cowboy Canyon: Canyonlands	38.318	-110.202	1722 m	570	70	7
+36505	28766	CCYN4	Cowboy Canyon: Canyonlands	38.318	-110.202	1734 m	1020	60	10
+36506	28767	CCYN7	Cowboy Canyon: Canyonlands	38.318	-110.202	1704 m	1580	90	11
+36507	28768	COWBOY1	Cowboy Cave: Canyonlands	38.318	-110.202	1713 m	7760	120	10
+36508	28769	COWBOY2	Cowboy Cave: Canyonlands	38.318	-110.202	1713 m	1170	60	9
+36509	28770	COWBOY3	Cowboy Cave: Canyonlands	38.318	-110.202	1713 m	2070	90	12
+36510	28771	COWH1	Cowboy Canyon Head: Canyonlands	38.318	-110.202	1719 m	1570	70	10
+36511	28772	COWH2	Cowboy Canyon Head: Canyonlands	38.318	-110.202	1719 m	410	60	9
+36512	28773	COWH3A	Cowboy Canyon Head: Canyonlands	38.318	-110.202	1722 m	890	60	10
+36513	28774	FCOW1	False Cowboy Cave: Canyonlands	38.318	-110.202	1722 m	3760	80	11
+36514	28775	JWC1	Jim Walters Cave: Canyonlands	38.318	-110.202	1713 m	5960	60	12
+36515	28776	SF1A	Spur Fork: Canyonlands	38.318	-110.202	1701 m	1690	80	7
+36516	28777	SF1B	Spur Fork: Canyonlands	38.318	-110.202	1701 m	1180	80	7
+36517	28778	SF2	Spur Fork: Canyonlands	38.318	-110.202	1676 m	710	60	8
+36518	28779	SF6	Spur Fork: Canyonlands	38.318	-110.202	1689 m	1610	60	8
+36519	28780	UPD3	Cowboy Uplands: Canyonlands	38.318	-110.202	1768 m	110	70	7
+36520	28781	WSFC1	Cowboy Canyon: Canyonlands	38.318	-110.202	1728 m	710	90	10
+36521	28782	BS1	Baker Shelter: Capitol Reef National Park	37.618	-110.888	(no data) m	0	0	11
+36522	28783	BS2	Baker Shelter: Capitol Reef National Park	37.618	-110.888	(no data) m	410	50	10
+36523	28784	BS3	Baker Shelter: Capitol Reef National Park	37.618	-110.888	(no data) m	20	80	8
+36524	28785	HALL4	Halls Canyon: Capitol Reef National Park	37.618	-110.888	(no data) m	80	100	10
+36525	28786	HALL6	Halls Canyon: Capitol Reef National Park	37.618	-110.888	(no data) m	105	70	6
+36526	28787	HALL8	Halls Canyon: Capitol Reef National Park	37.618	-110.888	(no data) m	265	100	10
+36527	28788	HD1a	Hartnet Draw: Capitol Reef National Park	38.250	-111.333	1920 m	1020	70	11
+36528	28789	HD2	Hartnet Draw: Capitol Reef National Park	38.250	-111.333	1920 m	330	60	13
+36529	28790	HD3	Hartnet Draw: Capitol Reef National Park	38.250	-111.333	1920 m	137	1	10
+36530	28791	HD6	Hartnet Draw: Capitol Reef National Park	38.250	-111.333	1920 m	5450	90	11
+36531	28792	HD7b	Hartnet Draw: Capitol Reef National Park	38.250	-111.333	1920 m	1275	110	12
+36532	28793	HD8	Hartnet Draw: Capitol Reef National Park	38.250	-111.333	1920 m	630	100	7
+36533	28794	HD9	Hartnet Draw: Capitol Reef National Park	38.250	-111.333	1920 m	2570	135	8
+36534	28795	NWS2	Narrows: Capitol Reef National Park	37.618	-110.888	(no data) m	330	100	7
+36535	28796	CAT3	La Catavina: Central Baja California	29.750	-114.750	550 m	1770	60	23
+36536	28797	BW1	Basin Wash: Central Sheep Range	36.702	-115.263	1650 m	3520	100	16
+36537	28798	BWREC	Basin Wash: Central Sheep Range	36.702	-115.263	1650 m	0	0	21
+36538	28799	HF1	Hidden Forest: Central Sheep Range	36.565	-115.104	2400 m	11570	120	8
+36539	28800	HF3A	Hidden Forest: Central Sheep Range	36.565	-115.104	2380 m	1600	120	12
+36540	28801	HF3B	Hidden Forest: Central Sheep Range	36.565	-115.104	2380 m	820	100	13
+36541	28802	HF3C(1)	Hidden Forest: Central Sheep Range	36.565	-115.104	2380 m	10060	130	12
+36542	28803	HF3C(2)	Hidden Forest: Central Sheep Range	36.565	-115.104	2380 m	11940	140	7
+36543	28804	HF3C(3)	Hidden Forest: Central Sheep Range	36.565	-115.104	2380 m	11860	160	6
+36544	28805	ATLATL4A	Atlatl Cave: Chaco Canyon National Monument	36.083	-107.983	1910 m	5550	130	11
+36545	28806	CHIQ1A	Casa Chiquita: Chaco Canyon National Monument	36.033	-107.900	1865 m	2360	70	13
+36546	28807	CHIQ1B	Casa Chiquita: Chaco Canyon National Monument	36.033	-107.900	1865 m	3940	110	14
+36547	28808	CHIQ4	Casa Chiquita: Chaco Canyon National Monument	36.033	-107.900	1860 m	4920	110	13
+36548	28809	CHIQ5	Casa Chiquita: Chaco Canyon National Monument	36.033	-107.900	1860 m	1610	90	12
+36549	28810	GALLO1	Gallo Wash: Chaco Canyon National Monument	36.033	-107.900	1896 m	2810	90	16
+36550	28811	GALLO3	Gallo Wash: Chaco Canyon National Monument	36.033	-107.900	1908 m	460	190	11
+36551	28812	GALLO4	Gallo Wash: Chaco Canyon National Monument	36.033	-107.900	1908 m	1940	150	9
+36552	28813	GALLO5	Gallo Wash: Chaco Canyon National Monument	36.033	-107.900	1921 m	2070	90	14
+36553	28814	GALLO6	Gallo Wash: Chaco Canyon National Monument	36.033	-107.900	1896 m	2820	300	13
+36554	28815	GALLO7	Gallo Wash: Chaco Canyon National Monument	36.033	-107.900	1945 m	2160	80	10
+36555	28816	MOCK1	Mockingbird Canyon: Chaco Canyon National Monument	36.033	-107.900	1930 m	1990	90	9
+36556	28817	MOCK2	Mockingbird Canyon: Chaco Canyon National Monument	36.033	-107.900	1930 m	1910	90	7
+36557	28818	MOCK3	Mockingbird Canyon: Chaco Canyon National Monument	36.033	-107.900	1935 m	3270	90	6
+36558	28819	MOCK4	Mockingbird Canyon: Chaco Canyon National Monument	36.033	-107.900	1935 m	1230	60	10
+36559	28820	MOCK5	Mockingbird Canyon: Chaco Canyon National Monument	36.033	-107.900	1935 m	1860	120	11
+36560	28821	SCC1A	Sheep Camp Canyon Shelter: Chaco Canyon National Monument	36.083	-107.983	1980 m	6670	200	13
+36561	28822	SCC2A	Sheep Camp Canyon Shelter: Chaco Canyon National Monument	36.083	-107.983	1980 m	3030	130	15
+36562	28823	SCC2B	Sheep Camp Canyon Shelter: Chaco Canyon National Monument	36.083	-107.983	1980 m	2830	130	12
+36563	28824	SCCMA	Sheep Camp Canyon Shelter: Chaco Canyon National Monument	36.083	-107.983	1980 m	0	0	18
+36564	28825	WERITO2	Weritos Rincon: Chaco Canyon National Monument	36.033	-107.900	1900 m	1780	110	5
+36565	28826	SCR	Salt Creek: Chocolate Mountains	33.500	-115.667	250 m	8640	100	17
+36566	28827	FISH1	Fishmouth Cave: Comb Ridge	37.429	-109.650	1585 m	12770	140	12
+36567	28828	FISH4	Fishmouth Cave: Comb Ridge	37.429	-109.650	1585 m	6100	100	16
+36568	28829	FISH5	Fishmouth Cave: Comb Ridge	37.429	-109.650	1585 m	9700	110	15
+36569	28830	FISH6	Fishmouth Cave: Comb Ridge	37.429	-109.650	1585 m	3550	60	16
+36570	28831	FISH7	Fishmouth Cave: Comb Ridge	37.429	-109.650	1585 m	3740	70	13
+36571	28832	FISH9	Fishmouth Cave: Comb Ridge	37.429	-109.650	1585 m	2260	90	19
+36572	28833	CONH1	Connley Hills: Connley Hills	43.267	-121.067	(no data) m	0	0	6
+36573	28834	CONH2	Connley Hills: Connley Hills	43.267	-121.067	(no data) m	0	0	7
+36574	28835	SLM1(1)	Sugarloaf Mountain: Coso Range	36.022	-117.820	1280 m	0	0	16
+36575	28836	SLM1(2)	Sugarloaf Mountain: Coso Range	36.022	-117.820	1280 m	0	0	10
+36576	28837	SLM1(3)	Sugarloaf Mountain: Coso Range	36.022	-117.820	1280 m	2550	30	12
+36577	28838	CRM3	Cricket Mountains: Cricket Mountains	38.970	-112.906	1634 m	970	50	5
+36578	28839	GC1	Granite Canyon: Deep Creek Range	39.667	-113.833	2070 m	13620	700	5
+36579	28840	SCH1A	Schoolhouse Canyon: Delano Mountains	41.485	-114.222	1580 m	1670	30	6
+36580	28841	SCH1B	Schoolhouse Canyon: Delano Mountains	41.485	-114.222	1580 m	1300	30	7
+36581	28842	GD1	Graben Dome: Diamond Craters	43.092	-118.760	1435 m	2390	260	6
+36582	28843	GD10	Graben Dome: Diamond Craters	43.088	-118.747	1400 m	0	0	8
+36583	28844	GD12	Graben Dome: Diamond Craters	43.088	-118.747	1400 m	2210	110	12
+36584	28845	GD13	Graben Dome: Diamond Craters	43.088	-118.747	1400 m	1700	90	15
+36585	28846	GD14	Graben Dome: Diamond Craters	43.088	-118.747	1400 m	2260	80	12
+36586	28847	GD2	Graben Dome: Diamond Craters	43.092	-118.759	1410 m	835	55	6
+36587	28848	GD3	Graben Dome: Diamond Craters	43.092	-118.760	1410 m	1625	150	8
+36588	28849	GD4	Graben Dome: Diamond Craters	43.089	-118.749	1400 m	1960	110	11
+36589	28850	GD5	Graben Dome: Diamond Craters	43.089	-118.749	1400 m	3270	100	13
+36590	28851	GD6	Graben Dome: Diamond Craters	43.089	-118.749	1400 m	3380	80	17
+36591	28852	GD7	Graben Dome: Diamond Craters	43.088	-118.749	1395 m	1540	130	22
+36592	28853	GD8	Graben Dome: Diamond Craters	43.089	-118.748	1400 m	2360	80	12
+36593	28854	GD9	Graben Dome: Diamond Craters	43.088	-118.747	1400 m	1560	60	13
+36594	28855	NOLF1	Nolf Crater: Diamond Craters	43.107	-118.804	1295 m	4075	90	13
+36595	28856	RA1	Rat Amber Ridge: Diamond Craters	42.500	-118.500	1330 m	3000	75	9
+36596	28857	RA2	Rat Amber Ridge: Diamond Craters	42.500	-118.500	1330 m	2340	90	12
+36597	28858	RA3	Rat Amber Ridge: Diamond Craters	42.500	-118.500	1330 m	2455	90	15
+36598	28859	SPAT1	Spattercone Cave: Diamond Craters	42.500	-118.500	1280 m	2350	80	9
+36599	28860	SPAT2	Spattercone Cave: Diamond Craters	42.500	-118.500	1280 m	3045	120	8
+36600	28861	SPAT3	Spattercone Cave: Diamond Craters	42.500	-118.500	1280 m	2670	70	9
+36601	28862	SUPC1	Surprise Cave: Diamond Craters	42.500	-118.500	1290 m	2800	110	10
+36602	28863	SUPC4	Surprise Cave: Diamond Craters	42.500	-118.500	1290 m	2680	90	7
+36603	28864	NAUQ01A	Sand Canyon Alcove: Dinosaur National Monument	40.333	-109.017	1920 m	9050	120	5
+36604	28865	NAUQ02A	Sand Canyon Alcove: Dinosaur National Monument	40.333	-109.017	1920 m	8460	100	5
+36605	28866	NAUQ02B	Sand Canyon Alcove: Dinosaur National Monument	40.333	-109.017	1920 m	9870	80	5
+36606	28867	NAUQMOD	Sand Canyon Alcove: Dinosaur National Monument	40.333	-109.017	1920 m	0	0	7
+36607	28868	DOL2	Dolores River: 	37.517	-108.550	2100 m	1450	160	14
+36608	28869	DOL3	Dolores River: 	37.517	-108.550	2100 m	580	90	14
+36609	28870	DOL4(1)	Dolores River: 	37.517	-108.550	2100 m	900	210	10
+36610	28871	DOL4(2)	Dolores River: 	37.517	-108.550	2100 m	990	190	10
+36611	28872	DOL5	Dolores River: 	37.517	-108.550	2100 m	670	40	7
+36612	28873	EEM1	Eagle Eye Mountain: Eagle Eye Mountain	33.883	-113.167	812 m	22140	350	9
+36613	28874	EEM10	Eagle Eye Mountain: Eagle Eye Mountain	33.883	-113.167	812 m	3340	60	17
+36614	28875	EEM11	Eagle Eye Mountain: Eagle Eye Mountain	33.883	-113.167	812 m	2980	65	17
+36615	28876	EEM2	Eagle Eye Mountain: Eagle Eye Mountain	33.883	-113.167	812 m	10440	70	20
+36616	28877	EEM3	Eagle Eye Mountain: Eagle Eye Mountain	33.883	-113.167	812 m	6425	75	20
+36617	28878	EEM4	Eagle Eye Mountain: Eagle Eye Mountain	33.883	-113.167	812 m	5130	65	15
+36618	28879	EEM5	Eagle Eye Mountain: Eagle Eye Mountain	33.883	-113.167	812 m	5335	90	19
+36619	28880	EEM6	Eagle Eye Mountain: Eagle Eye Mountain	33.883	-113.167	812 m	4040	70	20
+36620	28881	EEM7	Eagle Eye Mountain: Eagle Eye Mountain	33.883	-113.167	812 m	4540	85	26
+36621	28882	EEM8	Eagle Eye Mountain: Eagle Eye Mountain	33.883	-113.167	812 m	1885	60	25
+36622	28883	EEM9	Eagle Eye Mountain: Eagle Eye Mountain	33.883	-113.167	812 m	1595	50	18
+36623	28884	EBTM10	East Butte: East Butte	43.496	-112.663	1860 m	2380	90	8
+36624	28885	EBTM24	East Butte: East Butte	43.498	-112.671	1767 m	0	0	9
+36625	28886	EBTM6	East Butte: East Butte	43.496	-112.663	1860 m	2000	500	7
+36626	28887	EBTM7	East Butte: East Butte	43.496	-112.663	1860 m	3210	140	7
+36627	28888	EBTM8	East Butte: East Butte	43.496	-112.663	1860 m	2070	90	10
+36628	28889	EBTM9	East Butte: East Butte	43.496	-112.663	1860 m	1830	110	6
+36629	28890	SAW1A	Sawmill Canyon: East Central Sheep Range	36.693	-115.089	1755 m	3530	90	12
+36630	28891	SAW1D	Sawmill Canyon: East Central Sheep Range	36.693	-115.089	1755 m	3040	75	12
+36631	28892	CHU1	Chuar Valley: Eastern Grand Canyon	36.167	-111.917	1430 m	6830	175	5
+36632	28893	CHU10	Chuar Valley: Eastern Grand Canyon	36.167	-111.917	1400 m	999	0	7
+36633	28894	CHU2	Chuar Valley: Eastern Grand Canyon	36.167	-111.917	1450 m	16165	615	7
+36634	28895	CHU4	Chuar Valley: Eastern Grand Canyon	36.156	-111.825	970 m	12015	365	5
+36635	28896	CHU5	Chuar Valley: Eastern Grand Canyon	36.156	-111.825	970 m	1345	135	6
+36636	28897	CHU8B	Chuar Valley: Eastern Grand Canyon	36.167	-111.917	1770 m	18800	800	5
+36637	28898	CHU8C2	Chuar Valley: Eastern Grand Canyon	36.167	-111.917	1770 m	18490	660	5
+36638	28899	CHU9	Chuar Valley: Eastern Grand Canyon	36.167	-111.917	1770 m	23350	1110	7
+36639	28900	GP4	Grandview Point: Eastern Grand Canyon	36.000	-111.983	2200 m	5510	70	6
+36640	28901	NANK10	Nankoweap: Eastern Grand Canyon	36.250	-111.950	2050 m	1170	80	9
+36641	28902	NANK7A	Nankoweap: Eastern Grand Canyon	36.250	-111.950	2050 m	12170	210	7
+36642	28903	NANK9A	Nankoweap: Eastern Grand Canyon	36.250	-111.950	2020 m	7870	140	8
+36643	28904	NANK9B	Nankoweap: Eastern Grand Canyon	36.250	-111.950	2020 m	17950	600	6
+36644	28905	NANK9C	Nankoweap: Eastern Grand Canyon	36.250	-111.950	2020 m	18130	350	5
+36645	28906	SU1	Supai Group: Eastern Grand Canyon	36.014	-111.977	1620 m	2300	90	8
+36646	28907	CR1A	Castle Rock: Echo Canyon	41.127	-111.166	1943 m	400	30	5
+36647	28908	CR1B	Castle Rock: Echo Canyon	41.127	-111.166	1943 m	400	35	6
+36648	28909	ECHC1	Echo Canyon: Echo Canyon	41.043	-111.321	1837 m	1165	30	5
+36649	28910	ECHC2	Echo Canyon: Echo Canyon	41.061	-111.288	1869 m	370	30	11
+36650	28911	ECHC3	Echo Canyon: Echo Canyon	41.061	-111.288	1869 m	130	30	7
+36651	28912	ER2(1)	Eleana Range: Eleana Range	37.122	-116.234	1810 m	10620	120	13
+36652	28913	ER2(2)	Eleana Range: Eleana Range	37.122	-116.234	1810 m	11700	85	12
+36653	28914	ER2(3)	Eleana Range: Eleana Range	37.122	-116.234	1810 m	13180	65	10
+36654	28915	ER2(5)	Eleana Range: Eleana Range	37.122	-116.234	1810 m	14260	110	9
+36655	28916	ER2(7)	Eleana Range: Eleana Range	37.122	-116.234	1810 m	14760	100	8
+36656	28917	ER2(9)	Eleana Range: Eleana Range	37.122	-116.234	1810 m	15890	120	9
+36657	28918	ER3(6)	Eleana Range: Eleana Range	37.121	-116.230	1800 m	40600	850	10
+36658	28919	ER3(8)2	Eleana Range: Eleana Range	37.121	-116.230	1800 m	44100	1300	10
+36659	28920	ER3MOD	Eleana Range: Eleana Range	37.121	-116.230	1800 m	0	0	11
+36660	28921	EV1	Eureka View: Eureka Valley	37.333	-117.783	1510 m	2635	140	10
+36661	28922	EV2A	Eureka View: Eureka Valley	37.333	-117.783	1465 m	0	0	7
+36662	28923	EV2B	Eureka View: Eureka Valley	37.333	-117.783	1465 m	1580	140	10
+36663	28924	EV2C	Eureka View: Eureka Valley	37.333	-117.783	1465 m	3930	180	11
+36664	28925	EV3	Eureka View: Eureka Valley	37.333	-117.783	1450 m	535	150	9
+36665	28926	EV4(1)	Eureka View: Eureka Valley	37.333	-117.783	1435 m	5595	210	9
+36666	28927	EV4(2)	Eureka View: Eureka Valley	37.333	-117.783	1435 m	6795	190	9
+36667	28928	EV4(3)	Eureka View: Eureka Valley	37.333	-117.783	1435 m	5435	220	8
+36668	28929	EV5A	Eureka View: Eureka Valley	37.333	-117.783	1430 m	14720	530	7
+36669	28930	EV5B	Eureka View: Eureka Valley	37.333	-117.783	1430 m	8330	250	5
+36670	28931	HTH1	Horse Thief Hills: Eureka Valley	37.367	-117.833	1615 m	10690	280	12
+36671	28932	HTH2	Horse Thief Hills: Eureka Valley	37.367	-117.833	1635 m	199	0	13
+36672	28933	HTH3(1)	Horse Thief Hills: Eureka Valley	37.367	-117.833	1575 m	199	0	8
+36673	28934	FAIR1	Fairview Mountain: Fairview Mountain	33.446	-106.534	1618 m	0	0	7
+36674	28935	FAIR2	Fairview Mountain: Fairview Mountain	33.446	-106.534	1618 m	9850	80	5
+36675	28936	BULL	Bull Canyon: Fraser Plateau	52.090	-123.390	800 m	700	80	8
+36676	28937	CVC1	Cove Canyon: Glen Canyon National Recreation Area	37.942	-110.238	1596 m	525	50	13
+36677	28938	CVC11	Cove Canyon: Glen Canyon National Recreation Area	37.986	-110.251	1626 m	0	0	16
+36678	28939	CVC2	Cove Canyon: Glen Canyon National Recreation Area	37.942	-110.238	1598 m	995	65	15
+36679	28940	CVC20	Cove Canyon: Glen Canyon National Recreation Area	37.982	-110.249	1612 m	0	0	10
+36680	28941	CVC21	Cove Canyon: Glen Canyon National Recreation Area	37.983	-110.250	1603 m	380	40	13
+36681	28942	CVC22A	Cove Canyon: Glen Canyon National Recreation Area	37.983	-110.249	1607 m	275	40	18
+36682	28943	CVC3	Cove Canyon: Glen Canyon National Recreation Area	37.942	-110.238	1600 m	0	0	14
+36683	28944	CVC4A	Cove Canyon: Glen Canyon National Recreation Area	37.939	-110.235	1603 m	565	35	13
+36684	28945	CVC5	Cove Canyon: Glen Canyon National Recreation Area	37.939	-110.235	1603 m	0	0	14
+36685	28946	GST1	Gandolfs Staircase: Glen Canyon National Recreation Area	37.991	-110.166	1621 m	0	0	11
+36686	28947	GST2	Gandolfs Staircase: Glen Canyon National Recreation Area	37.991	-110.166	1621 m	220	45	17
+36687	28948	GST3	Gandolfs Staircase: Glen Canyon National Recreation Area	37.991	-110.167	1625 m	370	40	16
+36688	28949	GST4	Gandolfs Staircase: Glen Canyon National Recreation Area	37.990	-110.167	1623 m	955	40	14
+36689	28950	MESA1	5381 Mesa: Glen Canyon National Recreation Area	37.756	-110.475	1625 m	480	40	13
+36690	28951	MESA2	5381 Mesa: Glen Canyon National Recreation Area	37.756	-110.475	1625 m	250	45	17
+36691	28952	MESA3	5381 Mesa: Glen Canyon National Recreation Area	37.756	-110.475	1625 m	0	0	18
+36692	28953	MESA4B	5381 Mesa: Glen Canyon National Recreation Area	37.750	-110.462	1417 m	435	40	17
+36693	28954	MESA5	5381 Mesa: Glen Canyon National Recreation Area	37.750	-110.462	1411 m	0	0	12
+36694	28955	MZP1	Mazuki Point: Glen Canyon National Recreation Area	37.152	-111.168	1431 m	0	0	16
+36695	28956	MZP2	Mazuki Point: Glen Canyon National Recreation Area	37.156	-111.167	1409 m	0	0	17
+36696	28957	MZP3	Mazuki Point: Glen Canyon National Recreation Area	37.155	-111.166	1402 m	0	0	16
+36697	28958	WHF1	Waterhole Flat: Glen Canyon National Recreation Area	38.037	-110.151	1638 m	0	0	7
+36698	28959	WHF10	Waterhole Flat: Glen Canyon National Recreation Area	38.037	-110.151	1645 m	0	0	17
+36699	28960	WHF2A	Waterhole Flat: Glen Canyon National Recreation Area	38.037	-110.151	1638 m	325	55	10
+36700	28961	WHF3	Waterhole Flat: Glen Canyon National Recreation Area	38.037	-110.151	1637 m	0	0	7
+36701	28962	WHF4	Waterhole Flat: Glen Canyon National Recreation Area	38.037	-110.151	1645 m	490	55	9
+36702	28963	WHF6	Waterhole Flat: Glen Canyon National Recreation Area	38.037	-110.152	1651 m	365	40	8
+36703	28964	BE2a	Bonneville Estates: Goshute Mountains	40.455	-114.078	1530 m	13060	80	5
+36704	28965	BE3a	Bonneville Estates: Goshute Mountains	40.455	-114.078	1550 m	11020	60	7
+36705	28966	BE4b	Bonneville Estates: Goshute Mountains	40.455	-114.078	1550 m	12810	70	5
+36706	28967	PS1	Pristine Shelter: Goshute Mountains	40.421	-114.040	1585 m	11830	70	5
+36707	28968	WG1	West Goshutes: Goshute Range	40.640	-114.322	1900 m	3850	70	5
+36708	28969	BOW3	Bow Cave: Grand Canyon	36.312	-111.864	1005 m	13420	90	5
+36709	28970	CRC1	Crescendo Cave: Grand Canyon	36.312	-111.864	1155 m	20210	170	5
+36710	28971	CRC3a	Crescendo Cave: Grand Canyon	36.312	-111.864	1155 m	20310	130	8
+36711	28972	FWC1	Five Windows Cave: Grand Canyon	36.312	-111.864	1155 m	42930	1330	9
+36712	28973	FWC3	Five Windows Cave: Grand Canyon	36.312	-111.864	1155 m	39170	890	9
+36713	28974	PSW1	Peach Springs Wash: Grand Canyon	35.783	-113.500	885 m	12040	250	5
+36714	28975	RBDC2	Rebound Cave: Grand Canyon	36.312	-111.864	1155 m	46370	3270	9
+36715	28976	RBDC3	Rebound Cave: Grand Canyon	36.312	-111.864	1155 m	24570	160	9
+36716	28977	RBDC4	Rebound Cave: Grand Canyon	36.312	-111.864	1155 m	19050	100	11
+36717	28978	RBDC5	Rebound Cave: Grand Canyon	36.312	-111.864	1155 m	16610	90	7
+36718	28979	RBDC6	Rebound Cave: Grand Canyon	36.312	-111.864	1155 m	17940	100	5
+36719	28980	RBDC7	Rebound Cave: Grand Canyon	36.312	-111.864	1155 m	13970	90	5
+36720	28981	SHRINE1	Shrine Cave: Grand Canyon	36.312	-111.864	1170 m	39220	1600	11
+36721	28982	STCV1	Stevens Cave: Grand Canyon	36.312	-111.864	1170 m	12400	70	7
+36722	28983	STCV2	Stevens Cave: Grand Canyon	36.312	-111.864	1170 m	15840	90	5
+36723	28984	STCV5	Stevens Cave: Grand Canyon	36.312	-111.864	1170 m	13650	90	5
+36724	28985	OWLR2	Owl Roost: Grand Canyon National Park	40.762	-105.204	1460 m	21430	1500	8
+36725	28986	STC1(1)	Stantons Cave: Grand Canyon National Park	36.500	-111.958	900 m	14270	110	11
+36726	28987	STC1(4)	Stantons Cave: Grand Canyon National Park	36.500	-111.958	900 m	18480	170	6
+36727	28988	STC1(6)	Stantons Cave: Grand Canyon National Park	36.500	-111.958	900 m	17900	250	6
+36728	28989	STC2(11)	Stantons Cave: Grand Canyon National Park	36.500	-111.958	900 m	13570	100	6
+36729	28990	STC4(12)	Stantons Cave: Grand Canyon National Park	36.500	-111.958	900 m	13990	100	7
+36730	28991	STC7(14)	Stantons Cave: Grand Canyon National Park	36.500	-111.958	900 m	10860	100	8
+36731	28992	STC8(15)	Stantons Cave: Grand Canyon National Park	36.500	-111.958	900 m	34750	680	11
+36732	28993	G11A	Greenwater Valley: Greenwater Valley	36.167	-116.600	1410 m	0	0	13
+36733	28994	G11B	Greenwater Valley: Greenwater Valley	36.167	-116.600	1410 m	400	45	12
+36734	28995	G11C	Greenwater Valley: Greenwater Valley	36.167	-116.600	1410 m	740	120	10
+36735	28996	G15	Greenwater Valley: Greenwater Valley	36.167	-116.600	1380 m	199	0	11
+36736	28997	G4A	Greenwater Valley: Greenwater Valley	36.167	-116.600	1350 m	199	0	17
+36737	28998	G4B1	Greenwater Valley: Greenwater Valley	36.167	-116.600	1350 m	2125	50	10
+36738	28999	G4B2	Greenwater Valley: Greenwater Valley	36.167	-116.600	1350 m	2105	45	8
+36739	29000	G6B	Greenwater Valley: Greenwater Valley	36.167	-116.600	1350 m	270	70	12
+36740	29001	G6C	Greenwater Valley: Greenwater Valley	36.167	-116.600	1350 m	2235	35	8
+36741	29002	G7	Greenwater Valley: Greenwater Valley	36.167	-116.600	1360 m	199	0	10
+36742	29003	G8	Greenwater Valley: Greenwater Valley	36.167	-116.600	1340 m	199	0	13
+36743	29004	G9B	Greenwater Valley: Greenwater Valley	36.167	-116.600	1350 m	1340	40	11
+36744	29005	G9D	Greenwater Valley: Greenwater Valley	36.167	-116.600	1350 m	290	50	13
+36745	29006	GCJ2A	Grouse Creek Junction: Grouse Creek Mountains	41.433	-113.832	1473 m	12190	50	6
+36746	29007	GCJ3L	Grouse Creek Junction: Grouse Creek Mountains	41.433	-113.832	1473 m	2400	30	10
+36747	29008	LCHNC1	Last Chance Canyon: Guadalupe Mountains	32.267	-104.650	1310 m	10010	160	10
+36748	29009	LCHNC10	Last Chance Canyon: Guadalupe Mountains	32.267	-104.650	1310 m	3840	80	20
+36749	29010	LCHNC2	Last Chance Canyon: Guadalupe Mountains	32.267	-104.650	1310 m	90	60	6
+36750	29011	LCHNC6A	Last Chance Canyon: Guadalupe Mountains	32.267	-104.650	1310 m	1550	60	13
+36751	29012	LCHNC6B	Last Chance Canyon: Guadalupe Mountains	32.267	-104.650	1310 m	850	90	20
+36752	29013	LCHNC9	Last Chance Canyon: Guadalupe Mountains	32.267	-104.650	1310 m	3940	100	18
+36753	29014	PRATTCV	Pratt Cave: Guadalupe Mountains	31.979	-104.755	1610 m	0	0	19
+36754	29015	RAROYO1	Rocky Arroyo: Guadalupe Mountains	32.500	-104.500	1130 m	10560	150	9
+36755	29016	RAROYO2	Rocky Arroyo: Guadalupe Mountains	32.500	-104.500	1130 m	2940	190	6
+36756	29017	RAROYO3	Rocky Arroyo: Guadalupe Mountains	32.500	-104.500	1160 m	230	80	15
+36757	29018	HAM1A	Haystack Mountain: Haystack Mountain	36.600	-118.083	1155 m	20590	210	10
+36758	29019	HAM1B	Haystack Mountain: Haystack Mountain	36.600	-118.083	1155 m	20960	240	13
+36759	29020	HAM1C	Haystack Mountain: Haystack Mountain	36.600	-118.083	1155 m	22900	270	13
+36760	29021	HAM2A	Haystack Mountain: Haystack Mountain	36.600	-118.083	1155 m	14870	130	9
+36761	29022	HAM2B	Haystack Mountain: Haystack Mountain	36.600	-118.083	1155 m	17680	150	6
+36762	29023	HAM2C	Haystack Mountain: Haystack Mountain	36.600	-118.083	1155 m	16010	330	6
+36763	29024	HO12A	Hornaday Mountains: Hornaday Mountains	31.983	-113.600	260 m	9370	150	24
+36764	29025	HO12B	Hornaday Mountains: Hornaday Mountains	31.983	-113.600	260 m	8910	150	28
+36765	29026	HO1B	Hornaday Mountains: Hornaday Mountains	31.983	-113.600	240 m	4430	80	19
+36766	29027	HO1C	Hornaday Mountains: Hornaday Mountains	31.983	-113.600	240 m	6065	90	25
+36767	29028	HO2A	Hornaday Mountains: Hornaday Mountains	31.983	-113.600	240 m	2320	100	18
+36768	29029	HO2B	Hornaday Mountains: Hornaday Mountains	31.983	-113.600	240 m	1850	140	18
+36769	29030	HO3	Hornaday Mountains: Hornaday Mountains	31.983	-113.600	240 m	10000	190	21
+36770	29031	HO4B	Hornaday Mountains: Hornaday Mountains	31.983	-113.600	240 m	8660	190	27
+36771	29032	HO5A	Hornaday Mountains: Hornaday Mountains	31.983	-113.600	240 m	1930	110	16
+36772	29033	HO5B	Hornaday Mountains: Hornaday Mountains	31.983	-113.600	240 m	1720	130	18
+36773	29034	HMTN1A	Hueco Mountains: Hueco Mountains	31.900	-106.150	1280 m	9370	130	7
+36774	29035	HMTN1B	Hueco Mountains: Hueco Mountains	31.900	-106.150	1280 m	8150	170	13
+36775	29036	NAV14A	Navar Ranch: Hueco Mountains	31.900	-106.150	1340 m	12800	100	7
+36776	29037	NAV14E	Navar Ranch: Hueco Mountains	31.900	-106.150	1340 m	10580	230	16
+36777	29038	NAV15	Navar Ranch: Hueco Mountains	31.900	-106.150	1340 m	1330	110	8
+36778	29039	NAV16B	Navar Ranch: Hueco Mountains	31.900	-106.150	1340 m	2540	130	8
+36779	29040	NAV16C	Navar Ranch: Hueco Mountains	31.900	-106.150	1340 m	3650	130	13
+36780	29041	NAV17	Navar Ranch: Hueco Mountains	31.900	-106.150	1340 m	1570	70	5
+36781	29042	NAV18B	Navar Ranch: Hueco Mountains	31.900	-106.150	1340 m	7630	210	5
+36782	29043	NAV18C	Navar Ranch: Hueco Mountains	31.900	-106.150	1340 m	7890	180	10
+36783	29044	NAV19B	Navar Ranch: Hueco Mountains	31.900	-106.150	1340 m	3060	120	13
+36784	29045	NAV19C	Navar Ranch: Hueco Mountains	31.900	-106.150	1340 m	8320	200	14
+36785	29046	NAV1C1	Navar Ranch: Hueco Mountains	31.900	-106.150	1340 m	6360	140	9
+36786	29047	NAV1C2	Navar Ranch: Hueco Mountains	31.900	-106.150	1340 m	7930	180	14
+36787	29048	NAV1C3	Navar Ranch: Hueco Mountains	31.900	-106.150	1340 m	7410	150	7
+36788	29049	NAV20	Navar Ranch: Hueco Mountains	31.900	-106.150	1340 m	2550	120	12
+36789	29050	PICCV1AB	Picture Cave: Hueco Mountains	31.883	-106.133	1430 m	0	0	14
+36790	29051	PICCV1D	Picture Cave: Hueco Mountains	31.883	-106.133	1430 m	12030	210	11
+36791	29052	HVJT1977	Hidden Valley Joshua Tree: Joshua Tree National Park	34.030	-116.170	1280 m	12790	750	5
+36792	29053	HVJT62	Hidden Valley Joshua Tree: Joshua Tree National Park	34.016	-116.164	1280 m	9710	35	8
+36793	29054	HVJT80A	Hidden Valley Joshua Tree: Joshua Tree National Park	34.015	-116.163	1259 m	7040	25	14
+36794	29055	HVJT80B	Hidden Valley Joshua Tree: Joshua Tree National Park	34.015	-116.163	1259 m	7695	30	14
+36795	29056	HVJT80C	Hidden Valley Joshua Tree: Joshua Tree National Park	34.015	-116.163	1259 m	9185	30	12
+36796	29057	HVJT84A	Hidden Valley Joshua Tree: Joshua Tree National Park	34.020	-116.164	1290 m	1620	25	11
+36797	29058	HVJTW30	Hidden Valley Joshua Tree: Joshua Tree National Park	34.011	-116.168	1274 m	3730	25	10
+36798	29059	HVJTW85A	Hidden Valley Joshua Tree: Joshua Tree National Park	34.011	-116.165	1247 m	8185	25	8
+36799	29060	HVJTW85B	Hidden Valley Joshua Tree: Joshua Tree National Park	34.011	-116.165	1247 m	4735	25	9
+36800	29061	HVJTW94B	Hidden Valley Joshua Tree: Joshua Tree National Park	34.010	-116.166	1271 m	2210	25	11
+36801	29062	HVJTW95B	Hidden Valley Joshua Tree: Joshua Tree National Park	34.011	-116.168	1276 m	6535	20	12
+36802	29063	ICV16	Indian Cove: Joshua Tree National Park	34.099	-116.172	1028 m	9275	35	8
+36803	29064	ICV20	Indian Cove: Joshua Tree National Park	34.083	-116.139	945 m	1225	15	16
+36804	29065	ICV49	Indian Cove: Joshua Tree National Park	34.085	-116.431	952 m	9300	40	10
+36805	29066	ICV60B	Indian Cove: Joshua Tree National Park	34.096	-116.153	930 m	29260	420	8
+36806	29067	ICVE90	Indian Cove: Joshua Tree National Park	34.085	-116.140	958 m	2215	15	10
+36807	29068	JUMR22	Jumbo Rocks: Joshua Tree National Park	33.992	-116.059	1325 m	8720	30	15
+36808	29069	JUMR26	Jumbo Rocks: Joshua Tree National Park	33.991	-116.054	1313 m	4885	20	13
+36809	29070	JUMR39A	Jumbo Rocks: Joshua Tree National Park	33.994	-116.068	1352 m	12015	45	10
+36810	29071	JUMR39B	Jumbo Rocks: Joshua Tree National Park	33.994	-116.068	1352 m	7955	30	11
+36811	29072	JUMR39C	Jumbo Rocks: Joshua Tree National Park	33.994	-116.068	1352 m	4155	25	17
+36812	29073	JUMR39D	Jumbo Rocks: Joshua Tree National Park	33.994	-116.068	1352 m	4435	25	11
+36813	29074	JUMR39E	Jumbo Rocks: Joshua Tree National Park	33.994	-116.068	1352 m	4435	25	14
+36814	29075	JUMR42	Jumbo Rocks: Joshua Tree National Park	33.995	-116.067	1318 m	3865	25	15
+36815	29076	JUMR53	Jumbo Rocks: Joshua Tree National Park	33.991	-116.067	1340 m	1695	15	16
+36816	29077	JUMRN68	Jumbo Rocks: Joshua Tree National Park	33.994	-116.068	1357 m	8815	30	9
+36817	29078	JUMRN74	Jumbo Rocks: Joshua Tree National Park	33.994	-116.070	1349 m	2065	25	13
+36818	29079	JUMRN77	Jumbo Rocks: Joshua Tree National Park	33.996	-116.070	1350 m	4300	25	15
+36819	29080	KEYR1A	Keys Ranch: Joshua Tree National Park	34.025	-116.148	1285 m	2045	20	9
+36820	29081	KEYR1B	Keys Ranch: Joshua Tree National Park	34.025	-116.148	1285 m	7905	30	10
+36821	29082	KEYR97A1	Keys Ranch: Joshua Tree National Park	34.024	-116.155	1282 m	6010	20	15
+36822	29083	KEYR97A2	Keys Ranch: Joshua Tree National Park	34.024	-116.155	1282 m	5165	25	16
+36823	29084	MALH1B	Malapai Hills: Joshua Tree National Park	33.933	-116.075	1090 m	7110	50	7
+36824	29085	MASTP1B	Mastodon Peak: Joshua Tree National Park	33.999	-116.053	1320 m	4655	55	5
+36825	29086	SKRN40B	Skull Rock: Joshua Tree National Park	33.998	-116.062	1325 m	1920	25	12
+36826	29087	SKRN41	Skull Rock: Joshua Tree National Park	33.998	-116.063	1330 m	1725	25	12
+36827	29088	BUC1(1)	Burro Canyon: Kofa Mountains	33.400	-114.017	860 m	14400	330	22
+36828	29089	BUC1(3)	Burro Canyon: Kofa Mountains	33.400	-114.017	860 m	0	0	18
+36829	29090	BUC1(6)	Burro Canyon: Kofa Mountains	33.400	-114.017	862 m	13400	250	19
+36830	29091	HAG	HAG: Lakeside Mountains	41.201	-112.834	1310 m	3010	50	9
+36831	29092	LCR1(2)	Last Chance Range: Last Chance Range	36.290	-116.118	960 m	9280	210	18
+36832	29093	LCR1(3)	Last Chance Range: Last Chance Range	36.290	-116.118	960 m	11760	90	13
+36833	29094	LCR1MOD	Last Chance Range: Last Chance Range	36.290	-116.118	960 m	0	0	19
+36834	29095	GB3	Gillems Bluff: Lava Beds National Monument	41.793	-121.562	1280 m	2215	80	10
+36835	29096	HI6	Heppe Ice Cave: Lava Beds National Monument	41.698	-121.547	1615 m	1260	80	8
+36836	29097	HI7	Heppe Ice Cave: Lava Beds National Monument	41.698	-121.547	1615 m	1915	50	5
+36837	29098	HL5	Hercules Leg: Lava Beds National Monument	41.703	-121.515	1500 m	4910	70	9
+36838	29099	LD2	Labyrinth Distributary: Lava Beds National Monument	41.714	-121.509	1500 m	5265	75	9
+36839	29100	PA1	Paradise Alleys: Lava Beds National Monument	41.704	-121.516	1500 m	2570	80	6
+36840	29101	PA4	Paradise Alleys: Lava Beds National Monument	41.704	-121.516	1500 m	2065	80	9
+36841	29102	LEM27	Lemhi: Lemhi Range	43.827	-112.847	1585 m	1730	90	12
+36842	29103	LEM28	Lemhi: Lemhi Range	43.822	-112.867	1570 m	0	0	10
+36843	29104	LEM30	Lemhi: Lemhi Range	43.870	-112.930	1767 m	9960	150	11
+36844	29105	LEM36A	Lemhi: Lemhi Range	44.070	-112.988	2195 m	2930	70	18
+36845	29106	LEM36B	Lemhi: Lemhi Range	44.070	-112.988	2195 m	5820	110	12
+36846	29107	LO2b	Leppy Overhang: Leppy Hills	40.751	-114.048	1475 m	7520	60	6
+36847	29108	LRM32	Lost River: Lost River Range	43.700	-113.058	1675 m	1130	70	10
+36848	29109	LRM34	Lost River: Lost River Range	43.729	-113.082	2260 m	1150	70	9
+36849	29110	KC7	Kings Canyon: Lower Kings Canyon	36.800	-118.800	1270 m	90	90	9
+36850	29111	LLBFP1C6	Lyman Lake/Buffalo Pen: Lyman Lake State Park	34.283	-109.300	1880 m	16460	100	6
+36851	29112	LLBFPFLAT9	Lyman Lake/Buffalo Pen: Lyman Lake State Park	34.283	-109.300	1880 m	7890	60	6
+36852	29113	LLBFPSEO11	Lyman Lake/Buffalo Pen: Lyman Lake State Park	34.283	-109.300	1880 m	15540	190	6
+36853	29114	LLBFPSWL8	Lyman Lake/Buffalo Pen: Lyman Lake State Park	34.283	-109.300	1880 m	7520	60	7
+36854	29115	LLBFPSWU7	Lyman Lake/Buffalo Pen: Lyman Lake State Park	34.283	-109.300	1880 m	6310	80	7
+36855	29116	LLNSNE14	Lyman Lake/North of Screaming Neotoma Cave: Lyman Lake State Park	34.283	-109.300	1880 m	10020	70	9
+36856	29117	LLNSNEB15	Lyman Lake/North of Screaming Neotoma Cave: Lyman Lake State Park	34.283	-109.300	1880 m	12090	100	9
+36857	29118	LLSNE3	Lyman Lake/Screaming Neotoma Cave: Lyman Lake State Park	34.283	-109.300	1880 m	0	0	6
+36858	29119	LLSNE5	Lyman Lake/Screaming Neotoma Cave: Lyman Lake State Park	34.283	-109.300	1880 m	1690	50	6
+36859	29120	MM1	Marble Mountains: Marble Mountains	34.667	-115.583	475 m	3080	165	9
+36860	29121	MM2	Marble Mountains: Marble Mountains	34.600	-115.550	465 m	10460	330	6
+36861	29122	MM3	Marble Mountains: Marble Mountains	34.667	-115.583	450 m	1465	80	7
+36862	29123	MM4(2)	Marble Mountains: Marble Mountains	34.667	-115.583	885 m	9515	185	7
+36863	29124	MM5(2)	Marble Mountains: Marble Mountains	34.667	-115.583	900 m	4360	210	6
+36864	29125	MM6	Marble Mountains: Marble Mountains	34.667	-115.583	840 m	7930	285	11
+36865	29126	MM7(1)	Marble Mountains: Marble Mountains	34.667	-115.583	855 m	8925	360	11
+36866	29127	MM7(2)	Marble Mountains: Marble Mountains	34.667	-115.583	855 m	4475	170	8
+36867	29128	MM9(1)	Marble Mountains: Marble Mountains	34.667	-115.583	860 m	8905	265	9
+36868	29129	MM9(2)	Marble Mountains: Marble Mountains	34.667	-115.583	860 m	5520	190	9
+36869	29130	MR-1(1)1	McCullough Range (Peanut Butter Pass): McCullough Range	35.757	-115.165	1045 m	960	110	24
+36870	29131	MR-1(1)2	McCullough Range (Peanut Butter Pass): McCullough Range	35.757	-115.165	1045 m	1250	60	26
+36871	29132	MR-3(1)	McCullough Range (Peanut Butter Pass): McCullough Range	35.757	-115.165	1045 m	5510	140	15
+36872	29133	MR-3(3)	McCullough Range (Peanut Butter Pass): McCullough Range	35.757	-115.165	1045 m	6480	90	19
+36873	29134	MR-3(4)	McCullough Range (Peanut Butter Pass): McCullough Range	35.757	-115.165	1045 m	6800	110	24
+36874	29135	MR-3(5)	McCullough Range (Peanut Butter Pass): McCullough Range	35.757	-115.165	1045 m	5060	120	20
+36875	29136	MR-3m	McCullough Range (Peanut Butter Pass): McCullough Range	35.757	-115.165	1045 m	0	0	33
+36876	29137	SAV2(1)1	Sandy Valley: Mesquite Valley	35.878	-115.708	935 m	8790	80	7
+36877	29138	SAV2(3)2	Sandy Valley: Mesquite Valley	35.878	-115.708	935 m	9250	60	14
+36878	29139	SAV2(3)3	Sandy Valley: Mesquite Valley	35.878	-115.708	935 m	9400	90	11
+36879	29140	SAV3(1)	Sandy Valley: Mesquite Valley	35.878	-115.707	885 m	8490	120	11
+36880	29141	SAV3(2)	Sandy Valley: Mesquite Valley	35.878	-115.707	885 m	9430	60	12
+36881	29142	WRF1A	Woodruff: Monte Cristo Range	41.498	-111.269	2038 m	24	30	5
+36882	29143	NBSL5	Natural Bridges Shelter/Bare Ladder Shelter: Natural Bridges National Monument	37.600	-110.000	1820 m	9660	160	6
+36883	29144	CD1A	Chindi Cave: Navajo Mountain	37.006	-110.842	2010 m	0	0	6
+36884	29145	CD1B	Chindi Cave: Navajo Mountain	37.006	-110.842	2010 m	2180	70	9
+36885	29146	CD1C	Chindi Cave: Navajo Mountain	37.006	-110.842	2010 m	0	0	7
+36886	29147	CD1E	Chindi Cave: Navajo Mountain	37.006	-110.842	2010 m	10180	70	10
+36887	29148	CD1F	Chindi Cave: Navajo Mountain	37.006	-110.842	2010 m	2860	60	8
+36888	29149	CD1G	Chindi Cave: Navajo Mountain	37.006	-110.842	2010 m	0	0	9
+36889	29150	CD1H	Chindi Cave: Navajo Mountain	37.006	-110.842	2010 m	4100	70	10
+36890	29151	JW1	JW Shelter: Navajo Mountain	37.002	-110.854	2390 m	4130	70	8
+36891	29152	JW4	JW Shelter: Navajo Mountain	37.002	-110.854	2390 m	5620	70	7
+36892	29153	JW5	JW Shelter: Navajo Mountain	37.002	-110.854	2390 m	6650	60	8
+36893	29154	JW6	JW Shelter: Navajo Mountain	37.002	-110.854	2390 m	6150	80	8
+36894	29155	JW7	JW Shelter: Navajo Mountain	37.002	-110.854	2390 m	0	0	7
+36895	29156	JW8	JW Shelter: Navajo Mountain	37.002	-110.854	2390 m	0	0	7
+36896	29157	LCHA1	Lower Cha Canyon: Navajo Mountain	37.067	-110.800	1510 m	5740	80	10
+36897	29158	LCHA2	Lower Cha Canyon: Navajo Mountain	37.067	-110.800	1510 m	13740	110	7
+36898	29159	LM1A	Lost Mesa: Navajo Mountain	36.971	-110.783	1822 m	1830	70	6
+36899	29160	LM1B	Lost Mesa: Navajo Mountain	36.971	-110.783	1822 m	0	0	5
+36900	29161	LM1C	Lost Mesa: Navajo Mountain	36.971	-110.783	1822 m	0	0	5
+36901	29162	LM1D	Lost Mesa: Navajo Mountain	36.971	-110.783	1822 m	1060	60	5
+36902	29163	UPC2A	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	0	0	5
+36903	29164	UPC2B	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	0	0	6
+36904	29165	UPC2C	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	0	0	7
+36905	29166	UPC2D	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	0	0	5
+36906	29167	UPCA3A	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	4040	70	7
+36907	29168	UPCA3C	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	0	0	5
+36908	29169	UPCA3D	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	0	0	7
+36909	29170	UPCA3E	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	0	0	6
+36910	29171	UPCA3F	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	4550	70	6
+36911	29172	UPCA3G	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	6180	80	6
+36912	29173	UPCA3H	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	7890	60	7
+36913	29174	UPCA3J	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	0	0	7
+36914	29175	UPCA4AS	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	10740	60	5
+36915	29176	UPCA4C	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	8000	60	5
+36916	29177	UPCA4D	Upper Piute Canyon: Navajo Mountain	36.825	-110.654	2060 m	6260	70	7
+36917	29178	WAFV1	What A Fabulous View: Navajo Mountain	37.050	-110.757	1510 m	10300	80	7
+36918	29179	WAFV2	What A Fabulous View: Navajo Mountain	37.050	-110.757	1510 m	5650	70	8
+36919	29180	WAFV3	What A Fabulous View: Navajo Mountain	37.050	-110.757	1510 m	10660	70	9
+36920	29181	FMC10A	Forty Mile Canyon: Nevada Test Site	36.949	-116.377	1230 m	9470	40	12
+36921	29182	FMC10C	Forty Mile Canyon: Nevada Test Site	36.949	-116.377	1230 m	9390	40	17
+36922	29183	FMC11A(1)	Forty Mile Canyon: Nevada Test Site	36.947	-116.391	1309 m	15870	70	15
+36923	29184	FMC11A(2)	Forty Mile Canyon: Nevada Test Site	36.947	-116.391	1309 m	16410	70	16
+36924	29185	FMC11B	Forty Mile Canyon: Nevada Test Site	36.947	-116.391	1309 m	12870	50	19
+36925	29186	FMC12B	Forty Mile Canyon: Nevada Test Site	36.941	-116.376	1240 m	2770	30	22
+36926	29187	FMC7(1)	Forty Mile Canyon: Nevada Test Site	36.945	-116.372	1250 m	47200	3000	19
+36927	29188	FMC7(3)	Forty Mile Canyon: Nevada Test Site	36.945	-116.372	1250 m	52001	0	14
+36928	29189	FMC8A	Forty Mile Canyon: Nevada Test Site	36.947	-116.379	1240 m	18530	80	14
+36929	29190	FMC9A	Forty Mile Canyon: Nevada Test Site	36.947	-116.384	1280 m	21830	110	16
+36930	29191	NEWWM4	New Water Mountains: New Water Mountains	33.633	-113.950	615 m	10880	390	15
+36931	29192	DBC1(1)	Double Canyon: North Arrow Canyon Range	36.785	-114.884	660 m	12060	70	11
+36932	29193	DBC4(2)	Double Canyon: North Arrow Canyon Range	36.781	-114.881	690 m	10400	60	13
+36933	29194	BCAP1	Bishops Cap: Organ Mountains	32.183	-106.600	1465 m	10650	170	8
+36934	29195	BCAP2	Bishops Cap: Organ Mountains	32.183	-106.600	1465 m	10780	240	12
+36935	29196	BCAP3	Bishops Cap: Organ Mountains	32.183	-106.600	1465 m	10260	250	9
+36936	29197	BCAP4	Bishops Cap: Organ Mountains	32.183	-106.600	1465 m	0	0	8
+36937	29198	SHCVT5	Shelter Cave: Organ Mountains	32.183	-106.183	1475 m	31250	2200	7
+36938	29199	ROC3	Rough Canyon: Otero Mesa	32.378	-105.881	1490 m	13230	60	11
+36939	29200	ROC4	Rough Canyon: Otero Mesa	32.378	-105.881	1490 m	17300	190	8
+36940	29201	ROC5B	Rough Canyon: Otero Mesa	32.050	-105.800	1579 m	990	60	9
+36941	29202	ROC5L	Rough Canyon: Otero Mesa	32.383	-105.800	1579 m	1770	70	9
+36942	29203	ROC5U	Rough Canyon: Otero Mesa	32.383	-105.800	1579 m	1650	70	9
+36943	29204	WRC242	Wind River Canyon: Owl Creek Mountains/Wind River Mountains	43.553	-108.195	1421 m	1970	75	6
+36944	29205	SCA1(1)	Sandia Canyon: Pajarito Plateau	35.861	-106.229	2012 m	1430	70	6
+36945	29206	SCA1(2)	Sandia Canyon: Pajarito Plateau	35.861	-106.229	2012 m	1180	60	6
+36946	29207	SCA3	Sandia Canyon: Pajarito Plateau	35.861	-106.229	2012 m	2480	70	7
+36947	29208	SCA4	Sandia Canyon: Pajarito Plateau	35.861	-106.229	2012 m	1540	60	7
+36948	29209	SCA5(2)	Sandia Canyon: Pajarito Plateau	35.861	-106.229	2012 m	1520	50	9
+36949	29210	VWC17D	Vanar Wash Cave: Peloncillo Mountains	32.263	-109.089	1267 m	2429	41	12
+36950	29211	WDC10A	West Doubtful Canyon: Peloncillo Mountains	32.300	-109.109	1439 m	2100	70	12
+36951	29212	WDC10B	West Doubtful Canyon: Peloncillo Mountains	32.300	-109.109	1439 m	2060	45	11
+36952	29213	WDC14A	West Doubtful Canyon: Peloncillo Mountains	32.313	-109.093	1435 m	1495	40	19
+36953	29214	WDC14B	West Doubtful Canyon: Peloncillo Mountains	32.313	-109.093	1435 m	1485	35	22
+36954	29215	WDC14C	West Doubtful Canyon: Peloncillo Mountains	32.313	-109.093	1435 m	1485	35	24
+36955	29216	WDC15B	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.094	1442 m	25260	220	7
+36956	29217	WDC15E	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.094	1442 m	10320	55	6
+36957	29218	WDC15F	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.094	1442 m	12740	55	8
+36958	29219	WDC15G	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.094	1442 m	2985	40	19
+36959	29220	WDC15H	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.094	1442 m	4990	45	13
+36960	29221	WDC16	West Doubtful Canyon: Peloncillo Mountains	32.311	-109.093	1395 m	180	50	16
+36961	29222	WDC20B	West Doubtful Canyon: Peloncillo Mountains	32.316	-109.100	1417 m	10465	55	7
+36962	29223	WDC23A	West Doubtful Canyon: Peloncillo Mountains	32.316	-109.097	1485 m	12075	55	12
+36963	29224	WDC23B	West Doubtful Canyon: Peloncillo Mountains	32.316	-109.097	1485 m	10315	55	9
+36964	29225	WDC24A	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.104	1364 m	14050	55	7
+36965	29226	WDC24B	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.104	1364 m	14160	55	10
+36966	29227	WDC31	West Doubtful Canyon: Peloncillo Mountains	32.302	-109.104	1343 m	18590	55	5
+36967	29228	WDC32A	West Doubtful Canyon: Peloncillo Mountains	32.311	-109.103	1333 m	3100	40	15
+36968	29229	WDC32B	West Doubtful Canyon: Peloncillo Mountains	32.311	-109.103	1333 m	13160	55	10
+36969	29230	WDC32C	West Doubtful Canyon: Peloncillo Mountains	32.311	-109.103	1333 m	13025	55	11
+36970	29231	WDC32D	West Doubtful Canyon: Peloncillo Mountains	32.311	-109.103	1333 m	2925	40	11
+36971	29232	WDC32E	West Doubtful Canyon: Peloncillo Mountains	32.311	-109.103	1333 m	3485	50	13
+36972	29233	WDC32F	West Doubtful Canyon: Peloncillo Mountains	32.311	-109.103	1333 m	2405	35	15
+36973	29234	WDC32G	West Doubtful Canyon: Peloncillo Mountains	32.311	-109.103	1333 m	2075	45	20
+36974	29235	WDC32H	West Doubtful Canyon: Peloncillo Mountains	32.311	-109.103	1333 m	31090	450	8
+36975	29236	WDC34A	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.106	1366 m	2185	30	10
+36976	29237	WDC34B	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.106	1366 m	1685	40	15
+36977	29238	WDC34C	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.106	1366 m	2070	40	16
+36978	29239	WDC37B	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.093	1431 m	925	30	22
+36979	29240	WDC38A	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.092	1421 m	1555	45	18
+36980	29241	WDC38B	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.092	1421 m	2235	45	16
+36981	29242	WDC38C	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.092	1421 m	1265	40	15
+36982	29243	WDC38D	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.092	1421 m	1825	50	16
+36983	29244	WDC40A	West Doubtful Canyon: Peloncillo Mountains	32.313	-109.092	1430 m	1280	50	19
+36984	29245	WDC40C	West Doubtful Canyon: Peloncillo Mountains	32.313	-109.092	1430 m	1310	35	20
+36985	29246	WDC42	West Doubtful Canyon: Peloncillo Mountains	32.303	-109.106	1321 m	2530	70	19
+36986	29247	WDC43	West Doubtful Canyon: Peloncillo Mountains	32.313	-109.106	1287 m	4750	40	19
+36987	29248	WDC4A	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.091	1398 m	395	30	14
+36988	29249	WDC4B	West Doubtful Canyon: Peloncillo Mountains	32.312	-109.091	1398 m	170	30	17
+36989	29250	WDC57A	West Doubtful Canyon: Peloncillo Mountains	32.316	-109.103	1370 m	17670	55	9
+36990	29251	WDC57B	West Doubtful Canyon: Peloncillo Mountains	32.316	-109.103	1370 m	2395	35	17
+36991	29252	WDC57C	West Doubtful Canyon: Peloncillo Mountains	32.316	-109.103	1370 m	2165	30	18
+36992	29253	WDC57D	West Doubtful Canyon: Peloncillo Mountains	32.316	-109.103	1370 m	6925	55	16
+36993	29254	WDC57E	West Doubtful Canyon: Peloncillo Mountains	32.316	-109.103	1370 m	11635	55	10
+36994	29255	WDC66A	West Doubtful Canyon: Peloncillo Mountains	32.299	-109.099	1343 m	1194	35	16
+36995	29256	WDC9A	West Doubtful Canyon: Peloncillo Mountains	32.310	-109.096	1402 m	2530	40	18
+36996	29257	WDC9B	West Doubtful Canyon: Peloncillo Mountains	32.310	-109.096	1402 m	1130	30	12
+36997	29258	WDC9C	West Doubtful Canyon: Peloncillo Mountains	32.310	-109.096	1402 m	2540	50	21
+36998	29259	WDC9D	West Doubtful Canyon: Peloncillo Mountains	32.310	-109.096	1402 m	1140	35	18
+36999	29260	WDCC91A	West Doubtful Canyon Camp: Peloncillo Mountains	32.316	-109.081	1390 m	3020	35	17
+37000	29261	WDCC91B	West Doubtful Canyon Camp: Peloncillo Mountains	32.316	-109.081	1390 m	150	30	20
+37001	29262	WDCC91C	West Doubtful Canyon Camp: Peloncillo Mountains	32.316	-109.081	1390 m	11230	55	10
+37002	29263	ICC3D	Icicle Cave: Pequop Mountains	41.092	-114.569	2200 m	5340	50	5
+37003	29264	PQC	Pequop Cave: Pequop Mountains	41.064	-114.565	2050 m	2660	80	5
+37004	29265	PP1A	Picacho Peak-AZ: Picacho Mountains	32.633	-111.400	655 m	13170	200	34
+37005	29266	PP1B	Picacho Peak-AZ: Picacho Mountains	32.633	-111.400	655 m	11100	300	37
+37006	29267	PP1D	Picacho Peak-AZ: Picacho Mountains	32.633	-111.400	655 m	10280	140	21
+37007	29268	PP1E	Picacho Peak-AZ: Picacho Mountains	32.633	-111.400	655 m	9420	230	26
+37008	29269	PCPK10	Picacho Peak: Picacho Peak	32.933	-114.633	275 m	8330	120	10
+37009	29270	PCPK11	Picacho Peak: Picacho Peak	32.933	-114.633	274 m	630	140	10
+37010	29271	PCPK16	Picacho Peak: Picacho Peak	32.933	-114.633	245 m	10240	220	14
+37011	29272	PCPK17A	Picacho Peak: Picacho Peak	32.933	-114.633	285 m	7350	90	7
+37012	29273	PCPK17B	Picacho Peak: Picacho Peak	32.933	-114.633	285 m	10420	110	17
+37013	29274	PCPK17D2	Picacho Peak: Picacho Peak	32.950	-114.633	285 m	12390	340	12
+37014	29275	PCPK18	Picacho Peak: Picacho Peak	32.933	-114.633	250 m	4800	80	5
+37015	29276	PCPK21	Picacho Peak: Picacho Peak	32.933	-114.633	290 m	4970	80	9
+37016	29277	PCPK22	Picacho Peak: Picacho Peak	32.933	-114.633	300 m	8990	110	8
+37017	29278	PCPK23B	Picacho Peak: Picacho Peak	32.933	-114.633	280 m	10540	250	14
+37018	29279	PCPK24	Picacho Peak: Picacho Peak	32.933	-114.633	280 m	110	40	12
+37019	29280	PCPK25	Picacho Peak: Picacho Peak	32.933	-114.633	280 m	0	0	12
+37020	29281	PCPK26	Picacho Peak: Picacho Peak	32.933	-114.633	280 m	9090	150	7
+37021	29282	PCPK5B	Picacho Peak: Picacho Peak	32.967	-114.650	270 m	9380	300	9
+37022	29283	PCPK6B	Picacho Peak: Picacho Peak	32.967	-114.650	280 m	9590	190	13
+37023	29284	PCPK7	Picacho Peak: Picacho Peak	32.933	-114.633	274 m	0	0	12
+37024	29285	PCPK8C	Picacho Peak: Picacho Peak	32.933	-114.633	275 m	8110	160	8
+37025	29286	PCPK9B	Picacho Peak: Picacho Peak	32.933	-114.633	275 m	7650	120	6
+37026	29287	PATP1	Patterson Pass: Pilot Range	41.189	-114.011	2104 m	2390	30	6
+37027	29288	Raven1b	Raven Cave: Pilot Range	40.939	-114.086	1510 m	12050	70	5
+37028	29289	Raven1c	Raven Cave: Pilot Range	40.939	-114.086	1510 m	12910	50	5
+37029	29290	AL1A	Ajo Loop: Puerto Blanco Mountains	31.967	-112.783	550 m	5240	90	12
+37030	29291	AL1D	Ajo Loop: Puerto Blanco Mountains	31.967	-112.783	550 m	7970	130	19
+37031	29292	AL1G	Ajo Loop: Puerto Blanco Mountains	31.967	-112.783	550 m	7560	170	13
+37032	29293	AL2B	Ajo Loop: Puerto Blanco Mountains	31.967	-112.783	550 m	30	50	9
+37033	29294	AL2C	Ajo Loop: Puerto Blanco Mountains	31.967	-112.783	550 m	130	50	14
+37034	29295	AL3A	Ajo Loop: Puerto Blanco Mountains	31.967	-112.783	550 m	990	50	19
+37035	29296	AL4	Ajo Loop: Puerto Blanco Mountains	31.967	-112.783	550 m	980	70	16
+37036	29297	AL5B	Ajo Loop: Puerto Blanco Mountains	31.967	-112.783	535 m	3480	80	11
+37037	29298	AL6B	Ajo Loop: Puerto Blanco Mountains	31.967	-112.783	550 m	3220	100	14
+37038	29299	AL6C	Ajo Loop: Puerto Blanco Mountains	31.967	-112.783	550 m	3400	100	18
+37039	29300	CP1A	Cholla Pass: Puerto Blanco Mountains	31.983	-112.800	605 m	10540	250	10
+37040	29301	CP1B	Cholla Pass: Puerto Blanco Mountains	31.983	-112.800	605 m	9070	170	13
+37041	29302	CP1C	Cholla Pass: Puerto Blanco Mountains	31.983	-112.800	605 m	8790	210	7
+37042	29303	CP2	Cholla Pass: Puerto Blanco Mountains	31.983	-112.800	590 m	3440	90	21
+37043	29304	TP1	Twin Peaks-AZ: Puerto Blanco Mountains	31.967	-112.783	565 m	14120	260	11
+37044	29305	TP2	Twin Peaks-AZ: Puerto Blanco Mountains	31.967	-112.783	580 m	2340	70	19
+37045	29306	TP3	Twin Peaks-AZ: Puerto Blanco Mountains	31.967	-112.783	550 m	2160	60	12
+37046	29307	TP4	Twin Peaks-AZ: Puerto Blanco Mountains	31.967	-112.783	555 m	1910	50	19
+37047	29308	TP5	Twin Peaks-AZ: Puerto Blanco Mountains	31.967	-112.783	560 m	9720	460	14
+37048	29309	TP6	Twin Peaks-AZ: Puerto Blanco Mountains	31.967	-112.783	580 m	7580	100	15
+37049	29310	TP7	Twin Peaks-AZ: Puerto Blanco Mountains	31.967	-112.783	565 m	9860	180	11
+37050	29311	QM1	Quitman Mountains: Quitman Mountains	31.133	-105.400	1430 m	10910	170	12
+37051	29312	CT1(1)	Canyon Two - top layer: SE Sheep Range	36.485	-115.246	1800 m	3310	100	13
+37052	29313	CT1(2)	Canyon Two - bottom layer: SE Sheep Range	36.485	-115.246	1800 m	1990	70	17
+37053	29314	FLM1	Flaherty Mesa: SE Sheep Range	36.483	-115.250	1770 m	20390	340	6
+37054	29315	FLM2	Flaherty Mesa: SE Sheep Range	36.495	-115.265	1720 m	18790	280	11
+37055	29316	PH1(1)	Penthouse: SE Sheep Range	36.467	-115.250	1600 m	8100	120	12
+37056	29317	PH2(1)	Penthouse: SE Sheep Range	36.467	-115.250	1580 m	28960	2000	10
+37057	29318	PH2(2)	Penthouse: SE Sheep Range	36.467	-115.250	1580 m	11550	150	11
+37058	29319	PH3(3)	Penthouse: SE Sheep Range	36.467	-115.250	1600 m	20880	370	10
+37059	29320	SOC1(3)	South Crest: SE Sheep Range	36.483	-115.250	1990 m	25200	900	13
+37060	29321	SOC1(4)2	South Crest: SE Sheep Range	36.483	-115.250	1990 m	21700	500	18
+37061	29322	WW1A	Willow Wash: SE Sheep Range	36.466	-115.248	1500 m	22420	720	9
+37062	29323	WW2	Willow Wash: SE Sheep Range	36.468	-115.250	1535 m	4125	90	15
+37063	29324	WW4A	Willow Wash: SE Sheep Range	36.468	-115.251	1585 m	21350	420	8
+37064	29325	WW4B	Willow Wash: SE Sheep Range	36.468	-115.251	1585 m	9820	110	16
+37065	29326	WW4C(1)	Willow Wash: SE Sheep Range	36.468	-115.251	1585 m	24400	760	14
+37066	29327	WW4C(2)	Willow Wash: SE Sheep Range	36.468	-115.251	1585 m	19020	750	10
+37067	29328	WW4D	Willow Wash: SE Sheep Range	36.468	-115.251	1585 m	17700	740	8
+37068	29329	BDR3	Blue Diamond Road: SE Spring Range	36.033	-115.383	1050 m	15040	650	17
+37069	29330	BB1C	Big Boy Canyon: Sacramento Mountains	32.833	-105.917	1555 m	2770	100	21
+37070	29331	DC1	Dog Canyon: Sacramento Mountains	32.833	-105.917	1615 m	360	90	26
+37071	29332	MC1A	Marble Canyon: Sacramento Mountains	32.833	-105.917	1580 m	4540	150	23
+37072	29333	MC1C	Marble Canyon: Sacramento Mountains	32.833	-105.917	1580 m	1760	100	13
+37073	29334	MC2	Marble Canyon: Sacramento Mountains	32.833	-105.917	1585 m	2350	160	20
+37074	29335	MC3A	Marble Canyon: Sacramento Mountains	32.833	-105.917	1555 m	7350	240	12
+37075	29336	MC3B	Marble Canyon: Sacramento Mountains	32.833	-105.917	1555 m	9780	440	15
+37076	29337	MC4B	Marble Canyon: Sacramento Mountains	32.833	-105.917	1690 m	3300	110	20
+37077	29338	MC5	Marble Canyon: Sacramento Mountains	32.833	-105.917	1690 m	2180	120	20
+37078	29339	SA1	San Andres Canyon: Sacramento Mountains	32.833	-105.917	1555 m	430	100	19
+37079	29340	SA2	San Andres Canyon: Sacramento Mountains	32.833	-105.917	1585 m	10590	400	14
+37080	29341	SA3	San Andres Canyon: Sacramento Mountains	32.833	-105.917	1585 m	9640	330	15
+37081	29342	RC1C	Rhodes Canyon: San Andres Mountains	33.183	-106.650	1705 m	10290	210	21
+37082	29343	RC2A	Rhodes Canyon: San Andres Mountains	33.183	-106.650	1705 m	4340	150	21
+37083	29344	RC2D	Rhodes Canyon: San Andres Mountains	33.183	-106.650	1705 m	3420	170	21
+37084	29345	RC3A	Rhodes Canyon: San Andres Mountains	33.183	-106.600	1700 m	9110	220	17
+37085	29346	RC4	Rhodes Canyon: San Andres Mountains	33.183	-106.600	1700 m	6330	90	22
+37086	29347	RC5B	Rhodes Canyon: San Andres Mountains	33.183	-106.600	1700 m	3920	120	21
+37087	29348	RC6A	Rhodes Canyon: San Andres Mountains	33.183	-106.600	1700 m	2260	130	25
+37088	29349	RC6B	Rhodes Canyon: San Andres Mountains	33.183	-106.600	1700 m	6950	150	20
+37089	29350	TT1	Tip Top Spring: San Andres Mountains	33.183	-106.750	1465 m	2400	110	26
+37090	29351	TT2A	Tip Top Spring: San Andres Mountains	33.183	-106.750	1465 m	10900	160	16
+37091	29352	TT2B	Tip Top Spring: San Andres Mountains	33.183	-106.750	1465 m	11010	340	21
+37092	29353	TT3	Tip Top Spring: San Andres Mountains	33.183	-106.750	1465 m	2270	70	32
+37093	29354	COR1B	City of Rocks: Sawtooth Mountains	42.134	-113.671	1826 m	2270	30	6
+37094	29355	VV3	Valleyview Cave: Schell Creek Range	39.500	-114.717	2350 m	6250	150	8
+37095	29356	ROBRST1C	Robbers Roost: Scodie Mountains	35.600	-117.950	1130 m	13800	400	11
+37096	29357	ROBRST1D	Robbers Roost: Scodie Mountains	35.600	-117.950	1130 m	12820	400	8
+37097	29358	ROBRST2A	Robbers Roost: Scodie Mountains	35.600	-117.950	1130 m	12960	270	13
+37098	29359	SB1A	Sierra Bacha: Sierra Bacha	29.833	-112.475	200 m	9970	150	22
+37099	29360	SB1B	Sierra Bacha: Sierra Bacha	29.833	-112.475	200 m	9270	160	22
+37100	29361	SB1C	Sierra Bacha: Sierra Bacha	29.833	-112.475	200 m	9670	170	23
+37101	29362	SB1D	Sierra Bacha: Sierra Bacha	29.833	-112.475	200 m	2330	70	21
+37102	29363	SB1E	Sierra Bacha: Sierra Bacha	29.833	-112.475	200 m	2585	85	26
+37103	29364	SB1F	Sierra Bacha: Sierra Bacha	29.833	-112.475	200 m	2765	70	29
+37104	29365	SB1H	Sierra Bacha: Sierra Bacha	29.833	-112.475	200 m	3830	100	28
+37105	29366	SB1J	Sierra Bacha: Sierra Bacha	29.833	-112.475	200 m	5340	220	25
+37106	29367	SB2C	Sierra Bacha: Sierra Bacha	29.833	-112.475	200 m	0	0	21
+37107	29368	SB2F	Sierra Bacha: Sierra Bacha	29.833	-112.475	200 m	0	0	28
+37108	29369	SB3	Sierra Bacha: Sierra Bacha	29.833	-112.475	100 m	320	65	34
+37109	29370	GUADC100B	Guadalupe Canyon: Sierra Juarez	32.167	-115.763	200 m	3545	15	7
+37110	29371	GUADC13	Guadalupe Canyon: Sierra Juarez	32.168	-115.745	159 m	8410	20	11
+37111	29372	GUADC16A	Guadalupe Canyon: Sierra Juarez	32.169	-115.743	155 m	14235	30	11
+37112	29373	GUADC18	Guadalupe Canyon: Sierra Juarez	32.169	-115.747	165 m	9530	20	10
+37113	29374	GUADC1A	Guadalupe Canyon: Sierra Juarez	32.167	-115.763	200 m	18000	70	8
+37114	29375	GUADC1B	Guadalupe Canyon: Sierra Juarez	32.167	-115.763	200 m	17965	40	8
+37115	29376	GUADC23C	Guadalupe Canyon: Sierra Juarez	32.169	-115.746	150 m	14690	45	10
+37116	29377	GUADC27	Guadalupe Canyon: Sierra Juarez	32.169	-115.747	160 m	735	20	12
+37117	29378	GUADC28A	Guadalupe Canyon: Sierra Juarez	32.164	-115.759	289 m	7755	20	12
+37118	29379	GUADC3	Guadalupe Canyon: Sierra Juarez	32.163	-115.759	259 m	9660	20	12
+37119	29380	GUADC30B	Guadalupe Canyon: Sierra Juarez	32.162	-115.760	251 m	13155	25	9
+37120	29381	GUADC31	Guadalupe Canyon: Sierra Juarez	32.167	-115.758	245 m	10000	20	8
+37121	29382	GUADC32	Guadalupe Canyon: Sierra Juarez	32.163	-115.760	230 m	6800	15	10
+37122	29383	GUADC33B	Guadalupe Canyon: Sierra Juarez	32.163	-115.760	247 m	19580	50	6
+37123	29384	GUADC33C	Guadalupe Canyon: Sierra Juarez	32.163	-115.760	247 m	13325	25	9
+37124	29385	GUADC33E	Guadalupe Canyon: Sierra Juarez	32.163	-115.760	247 m	19980	50	5
+37125	29386	GUADC33F	Guadalupe Canyon: Sierra Juarez	32.163	-115.760	247 m	40930	560	8
+37126	29387	GUADC34	Guadalupe Canyon: Sierra Juarez	32.169	-115.754	240 m	12530	25	6
+37127	29388	GUADC41B	Guadalupe Canyon: Sierra Juarez	32.160	-115.754	249 m	13445	25	11
+37128	29389	GUADC48A	Guadalupe Canyon: Sierra Juarez	32.163	-115.767	275 m	13805	25	8
+37129	29390	GUADC50A	Guadalupe Canyon: Sierra Juarez	32.167	-115.756	290 m	29270	140	6
+37130	29391	GUADC50B	Guadalupe Canyon: Sierra Juarez	32.167	-115.756	290 m	54400	2900	6
+37131	29392	GUADC50C	Guadalupe Canyon: Sierra Juarez	32.167	-115.756	290 m	52801	0	6
+37132	29393	GUADC50D	Guadalupe Canyon: Sierra Juarez	32.167	-115.756	290 m	54001	0	8
+37133	29394	GUADC51B	Guadalupe Canyon: Sierra Juarez	32.167	-115.758	254 m	12510	25	9
+37134	29395	GUADC57B	Guadalupe Canyon: Sierra Juarez	32.171	-115.763	195 m	3935	15	14
+37135	29396	GUADC57C	Guadalupe Canyon: Sierra Juarez	32.171	-115.763	195 m	9265	20	10
+37136	29397	GUADC78	Guadalupe Canyon: Sierra Juarez	32.163	-115.759	265 m	4125	15	13
+37137	29398	GUADC79A	Guadalupe Canyon: Sierra Juarez	32.163	-115.755	241 m	12610	25	8
+37138	29399	GUADC79B	Guadalupe Canyon: Sierra Juarez	32.163	-115.755	241 m	4570	15	12
+37139	29400	GUADC7A	Guadalupe Canyon: Sierra Juarez	32.168	-115.751	189 m	12440	25	9
+37140	29401	GUADC8	Guadalupe Canyon: Sierra Juarez	32.170	-115.748	193 m	1755	15	11
+37141	29402	GUADC84	Guadalupe Canyon: Sierra Juarez	32.160	-115.764	275 m	12955	25	12
+37142	29403	GUADC92	Guadalupe Canyon: Sierra Juarez	32.147	-115.750	172 m	4400	15	10
+37143	29404	GUADC94B	Guadalupe Canyon: Sierra Juarez	32.167	-115.759	224 m	2265	15	12
+37144	29405	GUADC96	Guadalupe Canyon: Sierra Juarez	32.168	-115.753	211 m	10400	25	12
+37145	29406	GUADC97A	Guadalupe Canyon: Sierra Juarez	32.167	-115.763	250 m	49500	1600	6
+37146	29407	GUADC97B	Guadalupe Canyon: Sierra Juarez	32.167	-115.763	250 m	48900	1500	6
+37147	29408	GUADC97C	Guadalupe Canyon: Sierra Juarez	32.167	-115.763	250 m	35400	280	6
+37148	29409	GUADC97D	Guadalupe Canyon: Sierra Juarez	32.167	-115.763	250 m	32330	200	10
+37149	29410	GUADC98B	Guadalupe Canyon: Sierra Juarez	32.167	-115.763	250 m	53400	2600	10
+37150	29411	GUADC99	Guadalupe Canyon: Sierra Juarez	32.167	-115.763	200 m	5775	15	13
+37151	29412	CANB610	Canada de los Burros: Sierra San Pedro MxE1rtir	31.142	-115.428	707 m	6577	46	8
+37152	29413	CANB611	Canada de los Burros: Sierra San Pedro MxE1rtir	31.142	-115.428	690 m	21660	220	9
+37153	29414	CANB614A	Canada de los Burros: Sierra San Pedro MxE1rtir	31.142	-115.428	729 m	1808	35	14
+37154	29415	CANB614B	Canada de los Burros: Sierra San Pedro MxE1rtir	31.142	-115.428	729 m	1539	39	7
+37155	29416	CANB621	Canada de los Burros: Sierra San Pedro MxE1rtir	31.142	-115.426	709 m	1450	34	9
+37156	29417	CANB622	Canada de los Burros: Sierra San Pedro MxE1rtir	31.143	-115.429	740 m	4942	42	7
+37157	29418	CANB623A	Canada de los Burros: Sierra San Pedro MxE1rtir	31.142	-115.428	754 m	5314	42	5
+37158	29419	CANB623B	Canada de los Burros: Sierra San Pedro MxE1rtir	31.142	-115.428	754 m	5290	45	7
+37159	29420	CANB642	Canada de los Burros: Sierra San Pedro MxE1rtir	31.141	-115.427	718 m	5627	46	10
+37160	29421	CAND601	Canada el Diablito: Sierra San Pedro MxE1rtir	31.059	-115.357	899 m	5390	61	8
+37161	29422	CAND625	Canada el Diablito: Sierra San Pedro MxE1rtir	31.059	-115.357	893 m	4282	42	10
+37162	29423	CAND626	Canada el Diablito: Sierra San Pedro MxE1rtir	31.058	-115.356	893 m	1644	37	11
+37163	29424	DWC628	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.938	-115.254	722 m	7970	52	10
+37164	29425	DWC629A	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.938	-115.255	680 m	8960	55	11
+37165	29426	DWC629B	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.938	-115.255	680 m	8890	59	8
+37166	29427	DWC630	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.936	-115.256	790 m	7480	56	9
+37167	29428	DWC631	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.939	-115.260	647 m	4909	41	7
+37168	29429	DWC644A	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.937	-115.255	692 m	8050	53	9
+37169	29430	DWC644C	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.937	-115.255	692 m	5649	45	13
+37170	29431	DWC646B	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.938	-115.255	673 m	6852	43	10
+37171	29432	DWC646C	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.938	-115.255	673 m	9210	68	8
+37172	29433	DWC648A	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.937	-115.259	692 m	583	30	15
+37173	29434	DWC943	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.941	-115.257	689 m	4320	51	7
+37174	29435	DWC945B	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.941	-115.257	689 m	22750	180	6
+37175	29436	DWC945C	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.941	-115.257	689 m	28590	340	5
+37176	29437	DWC946	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.941	-115.257	689 m	26180	310	6
+37177	29438	DWC950	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.939	-115.260	758 m	10210	58	11
+37178	29439	DWC959B	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.942	-115.262	700 m	11650	78	8
+37179	29440	DWC972A	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.943	-115.261	745 m	12330	70	6
+37180	29441	DWC985	Driftwood Canyon: Sierra San Pedro MxE1rtir	30.942	-115.258	720 m	19410	120	5
+37181	29442	WFC963	Waterfall Canyon: Sierra San Pedro MxE1rtir	30.943	-115.253	705 m	11740	67	9
+37182	29443	WFC970A	Waterfall Canyon: Sierra San Pedro MxE1rtir	30.934	-115.253	650 m	7870	53	9
+37183	29444	WFD951A	Waterfall Divide: Sierra San Pedro MxE1rtir	30.935	-115.252	648 m	9730	60	15
+37184	29445	WFD951C	Waterfall Divide: Sierra San Pedro MxE1rtir	30.935	-115.252	648 m	9860	60	12
+37185	29446	SKB1	Skunkbush Shelter: Silver Island Mountains	40.861	-113.943	1417 m	580	30	7
+37186	29447	SIC2c	Silver Island Canyon: Silver Island Range	40.956	-113.770	1785 m	4670	30	5
+37187	29448	WP4	Wolcott Peak: Silverbell Mountains	32.450	-111.467	862 m	5350	100	10
+37188	29449	WP5	Wolcott Peak: Silverbell Mountains	32.450	-111.467	862 m	12130	500	36
+37189	29450	AC2A	Arch Cave: Snake Range	39.283	-114.083	1980 m	34040	5400	7
+37190	29451	AC4	Arch Cave: Snake Range	39.283	-114.083	1980 m	2400	100	9
+37191	29452	AC6	Arch Cave: Snake Range	39.283	-114.083	1980 m	29920	2000	6
+37192	29453	AC8	Arch Cave: Snake Range	39.283	-114.083	1980 m	7350	250	15
+37193	29454	AC9	Arch Cave: Snake Range	39.283	-114.083	1980 m	3510	230	8
+37194	29455	CH1A	Council Hall Cave: Snake Range	39.333	-114.100	2040 m	6120	80	8
+37195	29456	CH1B	Council Hall Cave: Snake Range	39.333	-114.100	2040 m	4220	60	8
+37196	29457	LC1	Ladder Cave: Snake Range	39.350	-114.083	2060 m	11200	200	7
+37197	29458	LC2A	Ladder Cave: Snake Range	39.350	-114.083	2060 m	27280	970	11
+37198	29459	LC2C	Ladder Cave: Snake Range	39.350	-114.083	2060 m	13100	210	9
+37199	29460	LC3	Ladder Cave: Snake Range	39.350	-114.083	2060 m	13230	110	9
+37200	29461	LC4	Ladder Cave: Snake Range	39.350	-114.083	2060 m	12100	150	9
+37201	29462	LC6	Ladder Cave: Snake Range	39.350	-114.083	2060 m	11080	115	6
+37202	29463	LC7	Ladder Cave: Snake Range	39.350	-114.083	2060 m	31030	1900	8
+37203	29464	LCMOD	Ladder Cave: Snake Range	39.350	-114.083	2060 m	0	0	5
+37204	29465	OM1C	Old Man Cave: Snake Range	39.167	-114.133	2200 m	9960	210	6
+37205	29466	SC2	Smith Creek Cave: Snake Range	39.350	-114.083	1950 m	10450	290	8
+37206	29467	SC3	Smith Creek Cave: Snake Range	39.350	-114.083	1950 m	11650	280	7
+37207	29468	SC4	Smith Creek Cave: Snake Range	39.350	-114.083	1950 m	12235	395	6
+37208	29469	SV2	Streamview Rockshelter: Snake Range	39.333	-114.100	1860 m	17350	435	10
+37209	29470	LT	Lava Tube: Snake River Plain	43.559	-112.597	1640 m	5690	90	12
+37210	29471	LTM17	Lava Tube: Snake River Plain	43.559	-112.597	1640 m	2560	125	8
+37211	29472	LTM18	Lava Tube: Snake River Plain	43.559	-112.597	1640 m	280	110	7
+37212	29473	LTM25	Lava Tube: Snake River Plain	43.584	-112.632	1596 m	1800	90	9
+37213	29474	TB	Twin Butte: Snake River Plain	43.500	-112.683	1690 m	1620	90	9
+37214	29475	GA1	Garrison: Snake Valley	38.950	-114.050	1640 m	12230	180	8
+37215	29476	SPC1(1)	Specter Range: Specter Range	36.642	-116.083	1040 m	300	40	19
+37216	29477	SPC1(2)	Specter Range: Specter Range	36.642	-116.083	1040 m	100	200	20
+37217	29478	SPC2(10)	Specter Range: Specter Range	36.671	-116.209	1190 m	29140	310	7
+37218	29479	SPC2(11)1	Specter Range: Specter Range	36.671	-116.209	1190 m	32260	2800	12
+37219	29480	SPC2(11)2	Specter Range: Specter Range	36.671	-116.209	1190 m	32100	1400	10
+37220	29481	SPC2(6)	Specter Range: Specter Range	36.671	-116.209	1190 m	25900	300	8
+37221	29482	SPC2MOD	Specter Range: Specter Range	36.671	-116.209	1190 m	0	0	17
+37222	29483	SPC3A1	Specter Range: Specter Range	36.676	-116.208	1100 m	20200	1800	13
+37223	29484	SPC3B	Specter Range: Specter Range	36.676	-116.208	1100 m	28460	2200	13
+37224	29485	DG1a	Devils Gate UT: Stansbury Range/Onaqui Mountains	40.347	-112.604	1825 m	12370	60	6
+37225	29486	OJC	Oregon Jack Creek: Thompson Plateau	50.639	-121.481	1200 m	1150	80	8
+37226	29487	GT3	Gatecliff Shelter: Toquima Range	39.000	-116.783	2319 m	3740	140	5
+37227	29488	GT5	Gatecliff Shelter: Toquima Range	39.000	-116.783	2319 m	0	26	8
+37228	29489	GT81B	Gatecliff Shelter: Toquima Range	39.000	-116.783	2319 m	9000	150	5
+37229	29490	GTMC1A	Mill Canyon: Toquima Range	39.000	-116.783	2319 m	1720	180	6
+37230	29491	GTMC2	Mill Canyon: Toquima Range	39.000	-116.783	2319 m	4790	170	7
+37231	29492	HARTM2(2)2	Hart Mine: Trigo Mountains	33.288	-114.609	220 m	0	0	6
+37232	29493	TM3	Tucson Mountains: Tucson Mountains	32.317	-111.200	738 m	21000	700	5
+37233	29494	TWPK2B	Twin Peaks: Twin Peaks	40.237	-113.929	1585 m	12250	60	7
+37234	29495	WCM1	Wild Cow Mesa: Uncompahgre Plateau	38.384	-108.635	1790 m	4465	20	6
+37235	29496	PARC1B	Parleys Canyon: Wasatch Range	40.730	-111.528	1588 m	1880	50	5
+37236	29497	LOC1	Logan Canyon: Wasatch Range/Bear River Range	41.796	-111.642	1640 m	3970	30	6
+37237	29498	LOC2A	Logan Canyon: Wasatch Range/Bear River Range	41.796	-111.642	1640 m	2010	30	7
+37238	29499	WAM13A1	Waterman Mountains: Waterman Mountains	32.350	-111.458	795 m	22450	640	10
+37239	29500	WAM1A	Waterman Mountains: Waterman Mountains	32.350	-111.458	795 m	2600	40	19
+37240	29501	WAM1B	Waterman Mountains: Waterman Mountains	32.350	-111.458	795 m	12690	150	8
+37241	29502	WAM1D	Waterman Mountains: Waterman Mountains	32.350	-111.458	795 m	12530	140	15
+37242	29503	WAM1E	Waterman Mountains: Waterman Mountains	32.350	-111.458	795 m	1320	45	26
+37243	29504	WAM9A1	Waterman Mountains: Waterman Mountains	32.350	-111.458	795 m	22380	380	10
+37244	29505	WAM9A2	Waterman Mountains: Waterman Mountains	32.350	-111.458	795 m	11470	170	14
+37245	29506	WAM9B	Waterman Mountains: Waterman Mountains	32.350	-111.458	795 m	9920	130	20
+37246	29507	BASIN1	Basin Canyon: West Central Sheep Range	36.705	-115.266	1635 m	15610	260	10
+37247	29508	BASIN2A	Basin Canyon: West Central Sheep Range	36.704	-115.267	1630 m	9365	320	12
+37248	29509	BASIN2B	Basin Canyon: West Central Sheep Range	36.704	-115.267	1630 m	19200	580	7
+37249	29510	DA1	Desert Almond Canyon: Western Grand Canyon	36.117	-113.933	490 m	10100	200	12
+37250	29511	DA10	Desert Almond Canyon: Western Grand Canyon	36.117	-113.900	635 m	12650	380	10
+37251	29512	DA3	Desert Almond Canyon: Western Grand Canyon	36.117	-113.933	520 m	11190	150	8
+37252	29513	DA4	Desert Almond Canyon: Western Grand Canyon	36.117	-113.933	585 m	11990	490	12
+37253	29514	DA5	Desert Almond Canyon: Western Grand Canyon	36.117	-113.933	565 m	10450	420	13
+37254	29515	DA6	Desert Almond Canyon: Western Grand Canyon	36.117	-113.933	570 m	10910	450	16
+37255	29516	DA8	Desert Almond Canyon: Western Grand Canyon	36.117	-113.933	575 m	8850	150	8
+37256	29517	DA9	Desert Almond Canyon: Western Grand Canyon	36.117	-113.933	585 m	0	0	10
+37257	29518	FRTPB	Rampart Cave: Western Grand Canyon	36.100	-113.933	535 m	16330	270	15
+37258	29519	IC1	Iceberg Canyon: Western Grand Canyon	36.183	-114.050	425 m	11010	400	11
+37259	29520	LAYPB	Rampart Cave: Western Grand Canyon	36.100	-113.933	535 m	0	0	11
+37260	29521	LTWL	Rampart Cave: Western Grand Canyon	36.100	-113.933	535 m	0	0	7
+37261	29522	MG1	Muav Gate Canyon: Western Grand Canyon	36.100	-113.933	440 m	12430	550	10
+37262	29523	NEC1	Needle Eye Canyon: Western Grand Canyon	36.117	-113.933	550 m	9720	260	14
+37263	29524	RFCRK	Rampart Cave: Western Grand Canyon	36.100	-113.933	535 m	13510	190	5
+37264	29525	ST035	Rampart Cave: Western Grand Canyon	36.100	-113.933	535 m	12230	350	9
+37265	29526	ST45	Rampart Cave: Western Grand Canyon	36.100	-113.933	535 m	13170	310	6
+37266	29527	VC10	Vulture Cave: Western Grand Canyon	36.100	-113.933	645 m	19050	390	12
+37267	29528	VC13	Vulture Cave: Western Grand Canyon	36.100	-113.933	645 m	15130	210	8
+37268	29529	VC15	Vulture Cave: Western Grand Canyon	36.100	-113.933	645 m	15260	270	11
+37269	29530	VC16	Vulture Cave: Western Grand Canyon	36.100	-113.933	645 m	14220	200	9
+37270	29531	VC17	Vulture Cave: Western Grand Canyon	36.100	-113.933	645 m	17100	680	12
+37271	29532	VC18(1)	Vulture Cave: Western Grand Canyon	36.100	-113.933	645 m	14390	300	8
+37272	29533	VC19	Vulture Cave: Western Grand Canyon	36.100	-113.933	645 m	22520	470	11
+37273	29534	VC20	Vulture Cave: Western Grand Canyon	36.100	-113.933	645 m	12000	260	6
+37274	29535	VC26	Vulture Cave: Western Grand Canyon	36.100	-113.933	645 m	17290	240	9
+37275	29536	VC6	Vulture Cave: Western Grand Canyon	36.100	-113.933	645 m	17610	290	10
+37276	29537	VC7	Vulture Cave: Western Grand Canyon	36.100	-113.933	645 m	22720	610	12
+37277	29538	VC8	Vulture Cave: Western Grand Canyon	36.100	-113.933	645 m	13820	220	11
+37278	29539	VCN1	Vulture Canyon: Western Grand Canyon	36.100	-113.933	540 m	12770	440	8
+37279	29540	VCN11	Vulture Canyon: Western Grand Canyon	36.100	-113.933	670 m	0	0	9
+37280	29541	VCN12	Vulture Canyon: Western Grand Canyon	36.100	-113.933	675 m	8540	180	8
+37281	29542	VCN14	Vulture Canyon: Western Grand Canyon	36.100	-113.933	645 m	11870	190	9
+37282	29543	VCN2	Vulture Canyon: Western Grand Canyon	36.100	-113.933	460 m	10250	290	5
+37283	29544	VCN3	Vulture Canyon: Western Grand Canyon	36.100	-113.933	495 m	0	0	12
+37284	29545	VCN4	Vulture Canyon: Western Grand Canyon	36.100	-113.933	495 m	10610	320	9
+37285	29546	VCN5	Vulture Canyon: Western Grand Canyon	36.100	-113.933	620 m	13400	390	14
+37286	29547	VCWTMTD	Vulture Cave: Western Grand Canyon	36.100	-113.933	645 m	13430	460	13
+37287	29548	WR1	Window Rock Canyon: Western Grand Canyon	36.100	-113.933	465 m	11310	380	15
+37288	29549	BHLS3	Black Hills: Western Sheep Range	36.589	-115.323	1590 m	25160	410	8
+37289	29550	DM1(1)	Deadman: Western Sheep Range	36.625	-115.297	1970 m	17420	250	11
+37290	29551	DM1(2)	Deadman: Western Sheep Range	36.625	-115.297	1970 m	16800	250	9
+37291	29552	DM1(4)	Deadman: Western Sheep Range	36.625	-115.297	1970 m	18680	280	13
+37292	29553	DVW1(4)	Desert View: Western Sheep Range	36.625	-115.036	1810 m	5210	95	14
+37293	29554	EY1(3)1	Eyrie: Western Sheep Range	36.638	-115.278	1860 m	23380	490	14
+37294	29555	EY2(1)	Eyrie: Western Sheep Range	36.638	-115.278	1855 m	2920	90	9
+37295	29556	EY2(2)	Eyrie: Western Sheep Range	36.638	-115.278	1855 m	1960	65	8
+37296	29557	EY3(1)	Eyrie: Western Sheep Range	36.633	-115.283	1855 m	16490	220	15
+37297	29558	EY3(2)	Eyrie: Western Sheep Range	36.638	-115.278	1855 m	18890	340	8
+37298	29559	EY5(2)	Eyrie: Western Sheep Range	36.638	-115.278	1860 m	30470	740	11
+37299	29560	EY5(3)	Eyrie: Western Sheep Range	36.638	-115.278	1860 m	19750	450	11
+37300	29561	SP1	Spires: Western Sheep Range	36.583	-115.295	2070 m	3240	150	21
+37301	29562	SP3	Spires: Western Sheep Range	36.583	-115.295	2080 m	9540	130	17
+37302	29563	WC2	Wagon Canyon: Western Sheep Range	36.595	-115.309	1790 m	25000	710	8
+37303	29564	FALARC1	Falling Arches: Whipple Mountains	34.217	-114.367	320 m	11650	190	17
+37304	29565	REDTP10A	Redtail Peak: Whipple Mountains	34.267	-114.417	490 m	10840	170	16
+37305	29566	REDTP11	Redtail Peak: Whipple Mountains	34.267	-114.417	520 m	13810	270	8
+37306	29567	REDTP8	Redtail Peak: Whipple Mountains	34.267	-114.417	495 m	11520	160	11
+37307	29568	TUNL2	Tunnel Ridge: Whipple Mountains	34.217	-114.367	365 m	10330	300	17
+37308	29569	TUNL5	Tunnel Ridge: Whipple Mountains	34.217	-114.367	365 m	12670	260	8
+37309	29570	WHIP2	Whipple Mountains: Whipple Mountains	34.233	-114.367	520 m	9980	180	20
+37310	29571	DSO1	Deep Springs Overlook: White Mountains	37.352	-118.178	2682 m	3290	70	7
+37311	29572	FC1	Falls Canyon: White Mountains	37.738	-118.378	1830 m	8790	110	12
+37312	29573	FC2	Falls Canyon: White Mountains	37.738	-118.378	1830 m	7810	450	10
+37313	29574	SCN2(A)2	Silver Canyon: White Mountains	37.419	-118.201	3048 m	5640	70	9
+37314	29575	VT2	Volcanic Tableland: White Mountains	37.465	-118.417	1341 m	9830	280	7
+37315	29576	VT3(C)	Volcanic Tableland: White Mountains	37.465	-118.417	1341 m	19290	330	9
+37316	29577	WY4(A)	Wyman Canyon: White Mountains	37.434	-118.114	2560 m	4510	90	7
+37317	29578	ANTWASH	Doney Mountain Monocline Antelope Wash: Wupatki National Monument	35.550	-111.450	1500 m	11210	185	9
+37318	29579	CC013B	Cedar Canyon: Wupatki National Monument	35.567	-111.483	1630 m	199	0	18
+37319	29580	CC013RB	Cedar Canyon: Wupatki National Monument	35.567	-111.483	1630 m	555	110	16
+37320	29581	CC013RT	Cedar Canyon: Wupatki National Monument	35.567	-111.483	1630 m	325	155	16
+37321	29582	CC017B	Cedar Canyon: Wupatki National Monument	35.567	-111.483	1630 m	355	150	14
+37322	29583	CC019	Cedar Canyon: Wupatki National Monument	35.567	-111.483	1630 m	315	65	21
+37323	29584	CC020	Cedar Canyon: Wupatki National Monument	35.567	-111.483	1630 m	1795	70	20
+37324	29585	CC05	Cedar Canyon: Wupatki National Monument	35.567	-111.483	1630 m	1545	70	13
+37325	29586	CC06	Cedar Canyon: Wupatki National Monument	35.567	-111.483	1630 m	199	0	16
+37326	29587	CITWASH	Doney Mountain Monocline Citadel Wash: Wupatki National Monument	35.583	-111.450	1500 m	13670	1100	14
+37327	29588	DCL10	Doney Cliffs: Wupatki National Monument	35.569	-111.393	1538 m	6310	100	11
+37328	29589	DCL11	Doney Cliffs: Wupatki National Monument	35.566	-111.391	1546 m	5700	90	11
+37329	29590	DCL12A	Doney Cliffs: Wupatki National Monument	35.561	-111.389	1500 m	100	1	16
+37330	29591	DCL13	Doney Cliffs: Wupatki National Monument	35.568	-111.382	1413 m	1040	60	9
+37331	29592	DCL14B	Doney Cliffs: Wupatki National Monument	35.568	-111.382	1413 m	3430	90	5
+37332	29593	DCL15	Doney Cliffs: Wupatki National Monument	35.570	-111.381	1536 m	380	60	18
+37333	29594	DCL16A	Doney Cliffs: Wupatki National Monument	35.573	-111.379	1524 m	12317	61	7
+37334	29595	DCL17B	Doney Cliffs: Wupatki National Monument	35.573	-111.379	1524 m	11500	55	15
+37335	29596	DCL18	Doney Cliffs: Wupatki National Monument	35.573	-111.379	1524 m	14160	190	7
+37336	29597	DCL1B	Doney Cliffs: Wupatki National Monument	35.549	-111.394	1553 m	205	65	9
+37337	29598	DCL2	Doney Cliffs: Wupatki National Monument	35.549	-111.394	1553 m	0	0	22
+37338	29599	DCL4A	Doney Cliffs: Wupatki National Monument	35.550	-111.393	1543 m	0	0	15
+37339	29600	DCL5B	Doney Cliffs: Wupatki National Monument	35.562	-111.386	1535 m	13900	70	9
+37340	29601	DCL6	Doney Cliffs: Wupatki National Monument	35.561	-111.389	1500 m	250	40	12
+37341	29602	DCL7	Doney Cliffs: Wupatki National Monument	35.562	-111.389	1500 m	1410	90	11
+37342	29603	DCL8	Doney Cliffs: Wupatki National Monument	35.562	-111.390	1501 m	11251	56	8
+37343	29604	DCL9	Doney Cliffs: Wupatki National Monument	35.562	-111.390	1501 m	0	0	23
+37344	29605	DMW2	Deadman Wash: Wupatki National Monument	35.532	-111.349	1426 m	119	0	23
+37345	29606	DMW3A	Deadman Wash: Wupatki National Monument	35.532	-111.352	1429 m	210	40	13
+37346	29607	DMW4A	Deadman Wash: Wupatki National Monument	35.532	-111.352	1429 m	350	35	15
+37347	29608	DMW5A	Deadman Wash: Wupatki National Monument	35.528	-111.357	1423 m	300	40	15
+37348	29609	Raptor01	Doney Mountain Monocline Raptor: Wupatki National Monument	35.583	-111.450	1500 m	11500	380	13
+37349	29610	WS0431N	Doney Mountain Monocline WS0431N: Wupatki National Monument	35.550	-111.450	1500 m	10890	680	14
