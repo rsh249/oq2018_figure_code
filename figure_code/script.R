@@ -295,13 +295,7 @@ alt3 = getData('alt', cou = 'CA')
 x = c(alt1, alt2, alt3)
 alt = do.call(merge,x)
 alt <- crop(alt, ext)
-
-##Include these files in repo
-dl = download.file('https://raw.githubusercontent.com/rsh249/cracle_examples/master/BIEN/sampleclim.grd', 
-									 destfile = './climdata.grd')
-dl2 = download.file('https://raw.githubusercontent.com/rsh249/cracle_examples/master/BIEN/sampleclim.gri', 
-									 destfile = './climdata.gri')
-r = stack('./climdata.gri')
+r = stack('./refdata/sampleclim.gri')
 r=crop(r,ext)
 usa1=getData('GADM', cou="US", level=1)
 mx1 = getData('GADM', cou="MX", level=1)
@@ -708,8 +702,8 @@ abline(c[[3]], c[[4]])
 library(raster)
 library(rgdal)
 #build lm against latitude (it is significant)
-###NEED TO CREATE ACCESS TO CLIMATE GRIDS HERE
-spts = rasterToPoints(r2[['wbalann']])
+
+spts = rasterToPoints(r[['wbalann']])
 #with parameters from the linear model get an adjustment value
 spts <- cbind(spts, cbind(l[[1]][[2]]*spts[,2]+l[[1]][[1]]))
 #plot(subset(spts, spts[,3]+spts[,4] > 0)) #apply the adjustment do the entire grid and plot
@@ -737,7 +731,7 @@ abline(ch[[3]], ch[[4]])
 library(raster)
 library(rgdal)
 #build lm against latitude (it is significant)
-sptsh = rasterToPoints(r2[['wbalann']])
+sptsh = rasterToPoints(r[['wbalann']])
 #with parameters from the linear model get an adjustment value
 sptsh <- cbind(sptsh, cbind(lh[[1]][[2]]*sptsh[,2]+lh[[1]][[1]]))
 #plot(subset(spts, spts[,3]+spts[,4] > 0)) #apply the adjustment do the entire grid and plot
@@ -776,10 +770,10 @@ library(latticeExtra)
                  par.settings=myTheme
                  #main=list(label=c("LGM (-4C)", "Modern (1950-2000 Avg.)",  "Holocene (+1.5C)"), cex=0.5)
   ) +
-    latticeExtra::layer(sp.polygons(mx1)) +
-    latticeExtra::layer(sp.polygons(usa1)) +
-    latticeExtra::layer(sp.polygons(cou))
- 
+  	layer(sp.polygons(usa1)) +
+  	layer(sp.polygons(mx1))  +
+  	layer(sp.polygons(mx0, lwd=2)) +
+  	layer(sp.polygons(usa0, lwd=2))
  p4 = xyplot(diff ~ m$lat, data.frame(cbind(m$lat, diff)), pch = 20, cex = 0.7, xlim = c(30,40), main=list('LGM Regression',cex=0.7), ylim = c(-400, 1000),
            xlab = list("Latitude",cex=0.55), ylab = list("Estimated change in\nwater balance (mm)", cex=0.7), type = c("p", "r"), col = 'black')# +
       #      layer(panel.ablineq(l[[1]][[1]], l[[1]][[2]], col ='darkgrey', adj=c(0.5,-1), cex = 0.8))
@@ -789,7 +783,7 @@ library(latticeExtra)
  #  layer(panel.ablineq(lh[[1]][[1]], lh[[1]][[2]], col ='darkgrey', adj=c(0.5,1.5), cex =0.8))
  
  
- png('/lgm_water.png', pointsize = 2, 
+ png('./figs/lgm_water.png', pointsize = 2, 
      height=5.25, width =7.25, res = 500, units='in')
   grid.arrange(arrangeGrob(p4, p5,  nrow =1), 
                arrangeGrob(p1, nrow=1),
@@ -799,96 +793,3 @@ library(latticeExtra)
  
  #layout(rbind(c(1,2), c(3,3)))
 
-
- 
- update(c(p1, p2, p3, x.same = TRUE)
-        , layout = c(1, 2, 3)
-        , ylab = list(c("p1", "p2", "p3")
-                      , y = c(1/4, 3/4))
-        , par.settings = list(layout.heights = list(panel = c(1, 1))))
- 
- 
- 
- 
- v=7; #NAM
- NAM = doit[[v]][,1];
- NAM = NAM-NAM[[501]]
- NAM.se = (doit[[v]][,2])/sqrt(doit[[v]][,3]);
- plot(0.1*(-500:0), c(NAM), type="l", lwd = 2.5, 
-      lty = 1, axes = T, ylim = c(-30, 50),
-      xlab ='', ylab = '') # first plot
- points(0.1*(-500:0), c(NAM)+1.96*NAM.se, type ='l', lty=3)
- points(0.1*(-500:0), c(NAM)-1.96*NAM.se, type ='l', lty=3)
- abline(h=0)
- i=94 #Verify this is bio18
- print(varlist[[i]])
- filegauss = files[grep(varlist[[i]], files)]
- 
- datagauss <- read.table(paste(out, filegauss, sep="/"))
- mergegauss <- merge(site_data, datagauss, by.x = 'analysis_id', by.y = 'V1')
- 
- mergegauss$plot_age = -1*mergegauss$plot_age;
- mergegauss$plot_agestdev = -1*mergegauss$plot_agestdev;
- head(mergegauss)
- m = subset(mergegauss, mergegauss$plot_agestdev <= -15000 & mergegauss$plot_age >= -22000)
- m.holo = subset(mergegauss, mergegauss$plot_agestdev <= -2000 & mergegauss$plot_age >= -8000)
- #m.holo = subset(m.holo, m.holo$plot_agestdev <= -4000 & m.holo$plot_age >= -6000)
- 
- elev=vector()
- for(nn in 1:nrow(m)){
-   elev[[nn]] = as.numeric(strsplit(as.character(m$elev_mean[nn]), split = " ")[[1]][1])
- }
- m$elev_mean = elev
- diff = (m$V3+m$V4)/2 - m$V2
- plot(m$lon, diff)
- cor.test(m$lat, diff); #0.35, p=0.006
- cor.test(m$elev_mean, diff); #not sig 0.09 #Good.
- cor.test(m$lon, diff); #not sig
- 
- l = glm(diff ~ m$lon)
- c = confint(l, level = 0.4);
- #abline(l)
- #abline(c[[1]], c[[2]])
- #abline(c[[3]], c[[4]])
- library(raster)
- library(rgdal)
- bio = stack('~/Desktop/cracle_testing/bio.gri')
- bio = crop(bio, ext)
- #build lm against latitude (it is significant)
- spts = rasterToPoints(bio[[18]])
- #with parameters from the linear model get an adjustment value
- spts <- cbind(spts, 
-               cbind(l[[1]][['m$lon']]*
-                       spts[,'x']+l[[1]][[1]]))
- #plot(subset(spts, spts[,3]+spts[,4] > 0)) #apply the adjustment do the entire grid and plot
- lgm.w = rasterFromXYZ(subset(spts, spts[,3]+spts[,4] > -100000), crs = crs(r))
- ext2 = extent(c(-125, -105, 25,45))
- lgm.w = crop(lgm.w, ext2)
- ##Holocene wb
- 
- elev=vector()
- for(nn in 1:nrow(m.holo)){
-   elev[[nn]] = as.numeric(strsplit(as.character(m.holo$elev_mean[nn]), split = " ")[[1]][1])
- }
- m.holo$elev_mean = elev
- diffh = (m.holo$V3+m.holo$V4)/2 - m.holo$V2
- plot(m.holo$lat, diffh)
- cor.test(m.holo$lat, diffh); #0.33, p = 0.000
- cor.test(m.holo$elev_mean, diffh); #not sig
- cor.test(m.holo$lon, diffh); #not sig
- #build lm against latitude (it is significant)
- lh = lm(diffh ~ m.holo$lat)
- ch = confint(lh, level = 0.4);
- abline(lh)
- abline(ch[[1]], ch[[2]])
- abline(ch[[3]], ch[[4]])
- library(raster)
- library(rgdal)
- 
- sptsh = rasterToPoints(r2[['wbalann']])
- #with parameters from the linear model get an adjustment value
- sptsh <- cbind(sptsh, cbind(lh[[1]][[2]]*sptsh[,2]+lh[[1]][[1]]))
- #plot(subset(spts, spts[,3]+spts[,4] > 0)) #apply the adjustment do the entire grid and plot
- holo.w = rasterFromXYZ(subset(sptsh, sptsh[,3]+sptsh[,4] > -100000), crs = crs(r))
- holo.w = crop(holo.w,ext2)
- 
