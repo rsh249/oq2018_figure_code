@@ -395,13 +395,13 @@ for(i in 1:nrow(sig.dec)){
 }
 dec.inter=na.omit(dec.inter)
 
-plot(0.1*(-500:0), doit[[1]][1:501,3], type = "h", ylab ='', xlab = "kya",  cex.lab =0.9, axes = F, lwd =2, xlim=c(-50, 0), ylim = c(0, max(doit[[1]][,3])))
-#hist( doit[[i]][1:50,3], type = "l", ylab ='', xlab = "kya", axes = F, lwd =2, xlim=c(-50, 0), ylim = c(0, max(doit[[i]][,3])))
+plot(0.1*(-500:0), doit[[1]][1:501,3], type = "h", ylab ='', xlab = "Time (ka)",  cex.lab =0.9, axes = F, lwd =2, xlim=c(-50, 0), ylim = c(0, max(doit[[1]][,3])))
+#hist( doit[[i]][1:50,3], type = "l", ylab ='', xlab = "Time (ka)", axes = F, lwd =2, xlim=c(-50, 0), ylim = c(0, max(doit[[i]][,3])))
 axis(side = 2, at = pretty(range(doit[[1]][,3], na.rm = T), n = 10), cex.axis = 1)
 axis(side = 1, at = pretty(0.1*(-500:0), n = 10), labels=seq(50,0,-5), cex = 1)
 mtext("Frequency of midden samples", side=2, line=3, cex=0.7, padj=0.5)
 
-plot((-500:0)/10, doit[[1]][,4], type = "l", ylab = '',xlab = "kya", cex.lab =0.9,axes = F, col='black',  lwd=2, xlim = c(-50, 2), ylim = c(8, 26))
+plot((-500:0)/10, doit[[1]][,4], type = "l", ylab = '',xlab = "Time (ka)", cex.lab =0.9,axes = F, col='black',  lwd=2, xlim = c(-50, 2), ylim = c(8, 26))
 
 rect(0.1*inc.inter[,1], 11, 0.1*inc.inter[,2], 21, density = -1, col = rgb(0,1,1.0,alpha=0.3), lwd=0)
 rect(0.1*dec.inter[,1], 11, 0.1*dec.inter[,2], 21, density = -1, col = rgb(0,0,1.0,alpha=0.3), lwd=0)
@@ -518,7 +518,7 @@ mtext("65°N June insolation [W/m2]",
 			side=4, line=3, cex=0.7,las=0, adj = 0.3)
 mtext(expression(paste("Antarctic CO"^"2", " Composite (ppm)")), 
 								 side=2, line=3, cex=0.7,las=0, adj = 0)
-			mtext("kya", side=1, line=3, cex=0.7,las=0)
+			mtext("Time (ka)", side=1, line=3, cex=0.7,las=0)
 			textbox(c(-50000, -49000),320,
 							c("E)"), box = F, cex = 0.7)
 			
@@ -646,7 +646,7 @@ mtext(expression(paste("Antarctic CO"^"2", " Composite (ppm)")),
 			abline(h=0)
 			axis(side=2, at = pretty(c(max(c(win)+1.96*win.se), min(c(win)-1.96*win.se)), n = 4),cex.axis = 0.8, tick = TRUE)
 			axis(side = 1, at = pretty(0.1*(-500:0), n = 10), labels=seq(50,0,-5), cex = 0.7)
-			mtext("kya", side=1, line=3, cex=0.7,las=0)
+			mtext("Time (ka)", side=1, line=3, cex=0.7,las=0)
 			textbox(c(-50, -49),2,
 							c("E)"), box = F, cex = 1.2)
 		
