@@ -516,7 +516,7 @@ mtext("GISP2 MAT anomaly (°C)", side=2, line=3,
 
 mtext("65°N June insolation [W/m2]", 
 			side=4, line=3, cex=0.7,las=0, adj = 0.3)
-mtext(expression(paste("Antarctic CO"^"2", " Composite (ppm)")), 
+mtext(expression(paste("Antarctic CO"[2], " Composite (ppm)")), 
 								 side=2, line=3, cex=0.7,las=0, adj = 0)
 			mtext("Time (ka)", side=1, line=3, cex=0.7,las=0)
 			textbox(c(-50000, -49000),320,
