@@ -436,7 +436,7 @@ v=1; #MAT
 MAT = doit[[v]][,1]/10;
 MAT = MAT-MAT[[501]]
 MAT.se = (doit[[v]][,2]/10)/sqrt(doit[[v]][,3]);
-plot(0.1*(-500:0), c(MAT), type="l", lwd = 2.5, lty = 1, axes = F, ylim=c(-45, 3), xlab ='', ylab = '', panel.first = grid(NULL, 0)) # first plot
+plot(0.1*(-500:0), c(MAT), type="l", lwd = 1.5, lty = 1, axes = F, ylim=c(-45, 3), xlab ='', ylab = '', panel.first = grid(NULL, 0)) # first plot
 points(0.1*(-500:0), c(MAT)+1.96*MAT.se, type ='l', lty=3)
 points(0.1*(-500:0), c(MAT)-1.96*MAT.se, type ='l', lty=3)
 textbox(c(-50, -11.8),4.7,c("Pleistocene"), 
@@ -461,7 +461,20 @@ textbox(c(-50, -49),2,
 par(new = TRUE)
 shakun_stack <-read.csv(paste(refdata, 'Shakun_data.tab', sep = ''), sep = "\t")
 shakun_stack[,1]= -1*shakun_stack[,1]
-plot(shakun_stack[,1], shakun_stack[,5], ylim = c(-25, 8.5), xlim= c(-50, 0), lwd = 2.5, axes=F, ylab = '', xlab = '', type = "l")
+plot(shakun_stack[,1], shakun_stack[,5], ylim = c(-25, 10.5), xlim= c(-50, 0), lwd = 1.5, axes=F, ylab = '', xlab = '', type = "l")
+points(shakun_stack[,1], shakun_stack[,5]+(shakun_stack[,6]*1.96), ylim = c(-25, 10.5), xlim = c(-50,0), lwd = 1, lty =2, ylab='', xlab='', type ='l')
+points(shakun_stack[,1], shakun_stack[,5]-(shakun_stack[,6]*1.96), ylim = c(-25, 10.5), xlim = c(-50,0), lwd = 1, lty =2, ylab='', xlab='', type ='l')
+marcott_stack = read.csv(paste(refdata,'marcott_n_hemi_stack.csv', sep =''), sep = ',', header = TRUE) ##30-90N stack from Marcott et al 2012 Databse S1 http://science.sciencemag.org/highwire/filestream/594506/field_highwire_adjunct_files/1/Marcott.SM.database.S1.xlsx
+marcott_stack[,1] = as.numeric(as.character(marcott_stack[,1]))/1000
+marcott_stack[,2] = as.numeric(as.character(marcott_stack[,2]))
+marcott_stack[,3] = as.numeric(as.character(marcott_stack[,3]))
+
+points(-1*marcott_stack[,1], marcott_stack[,2], ylim = c(-25, 10.5), col='darkgrey', xlim = c(-50,0), lwd = 1.5, lty =1, ylab='', xlab='', type ='l')
+points(-1*marcott_stack[,1], marcott_stack[,2] - 1.96*marcott_stack[,3], col = 'darkgrey', ylim = c(-25, 10.5), xlim = c(-50,0), lwd = 1, lty =2, ylab='', xlab='', type ='l')
+points(-1*marcott_stack[,1], marcott_stack[,2] + 1.96*marcott_stack[,3], col ='darkgrey', ylim = c(-25, 10.5), xlim = c(-50,0), lwd = 1, lty =2, ylab='', xlab='', type ='l')
+legend(-50, -1, c('Shakun 2012', 'Marcott 2013'), lty=1,lwd=1.5, col=c('black', 'darkgrey'), cex = 0.5)
+
+
 abline(0,0, lty = 1.5)
 axis(side = 4, at = pretty(range(shakun_stack[,5], na.rm=T), n = 5), cex.axis = 0.7, tick = T)
 textbox(c(-50, -49),1,
@@ -482,7 +495,7 @@ for(i in 1:500){
 }
 gisp.mean = gisp.mean-gisp.mean[[1]];
 plot(-100*(500:1), rev(gisp.mean), 
-		 type ='l', ylim = c(-80,60), 
+		 type ='l', ylim = c(-80,80), 
 		 xlim= c(-50000, 0), lwd = 1.5, 
 		 axes=F, ylab = '', xlab = '')
 abline(h=0)
@@ -492,7 +505,7 @@ textbox(c(-50000, -49000),5,
 
 par(new = TRUE)
 
-plot(tts, isl, typ='l', ylim = c(350, 800), axes=F, lwd = 2.5, ylab = '', xlab = '')
+plot(tts, isl, typ='l', ylim = c(350, 900), axes=F, lwd = 1.5, ylab = '', xlab = '')
 #abline(median(isl),0, lty = 3)
 axis(side = 4, at = pretty(range(isl, na.rm=T), n = 5), cex.axis = 0.7, tick = T)
 textbox(c(-50000, -49000),520,
@@ -503,19 +516,19 @@ co2 <- read.csv(paste(refdata, "antarctica2015co2.txt", sep = ''), sep = "\t")
 co2 <- subset(co2, co2[,1] <= 50000)
 co2[,1] = co2[,1] *-1;
 co2 = subset(co2, co2[,1] <=0)
-plot(co2[,1], co2[,2],type = "l", ylim = c(175, 1000), xlim= c(-50000, 0), lwd = 2.5, axes=F, ylab = '', xlab = '')
+plot(co2[,1], co2[,2],type = "l", ylim = c(175, 1000), xlim= c(-50000, 0), lwd = 1.5, axes=F, ylab = '', xlab = '')
 axis(side = 2, at = pretty(range(co2[,2], na.rm=T), n = 5), cex.axis = 0.7, tick = T)
 
 
 mtext("CRACLE MAT anomaly (°C)", 
 			side=2, line=3, cex=0.7,las=0, adj = 1)
-mtext("N. Hemis. mean anomaly (°C)", side=4, 
-			line=3, cex=0.7,las=0, adj = 0.73)
+mtext("N. Hemis. MAT anomalies (°C)", side=4, 
+			line=3, cex=0.7,las=0, adj = 0.70)
 mtext("GISP2 MAT anomaly (°C)", side=2, line=3, 
-			cex=0.7,las=0, adj = 0.5)
+			cex=0.7,las=0, adj = 0.44)
 
 mtext("65°N June insolation [W/m2]", 
-			side=4, line=3, cex=0.7,las=0, adj = 0.3)
+			side=4, line=3, cex=0.7,las=0, adj = 0.22)
 mtext(expression(paste("Antarctic CO"[2], " Composite (ppm)")), 
 								 side=2, line=3, cex=0.7,las=0, adj = 0)
 			mtext("Time (ka)", side=1, line=3, cex=0.7,las=0)
@@ -523,7 +536,9 @@ mtext(expression(paste("Antarctic CO"[2], " Composite (ppm)")),
 							c("E)"), box = F, cex = 0.7)
 			
 			
-			dev.off()
+dev.off()
+
+
 			
 			
 			millav <- function(x){
