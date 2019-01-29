@@ -20,7 +20,7 @@ do_timeline3 <- function(x, type)
 	x=na.omit(x)
 	changesince <- vector();
 	changesince[[1]] = 0;
-	avg.dif = vector();avg.per = vector();avg.dif2 = vector();sites.used= vector();  stdev.dif = vector(); num_tax = vector(); altitude = vector();df=vector(); base.avg = vector(); base.sd = vector();
+	avg.dif = vector();avg.per = vector();avg.dif2 = vector();sites.used= vector();  stdev = vector(); num_tax = vector(); altitude = vector();df=vector(); base.avg = vector(); base.sd = vector();
 	y = 1;
 	for(i in -500:0){
 		diff.hold = vector();# diff2.hold = vector();
@@ -64,7 +64,7 @@ do_timeline3 <- function(x, type)
 		avg.dif[[y]] = mean(((diff.hold)))
 		avg.per[[y]] = mean(((per.hold)));
 		#  avg.dif2[[y]] = mean(na.omit((diff2.hold)))
-		stdev.dif[[y]] = sd((abs((diff.hold))))
+		stdev[[y]] = sd((abs((diff.hold))))
 		sites.used[[y]] = sites;
 		#  base.avg[[y]] = mean(na.omit((base.hold)));
 		#  base.sd[[y]] = sd(na.omit((base.hold)))
@@ -78,7 +78,7 @@ do_timeline3 <- function(x, type)
 		
 		
 	}
-	return(cbind((avg.dif), (stdev.dif), (sites.used), (num_tax), (altitude), (avg.per)));
+	return(cbind((avg.dif), (stdev), (sites.used), (num_tax), (altitude), (avg.per)));
 	
 }
 do_timeline3 = compiler::cmpfun(do_timeline3)
@@ -211,7 +211,7 @@ kdemax = list();
 gaussmin = list();
 gaussmax = list();
 
-nclus=2;
+nclus=6;
 
 library(foreach)
 cl <- parallel::makeCluster(nclus, type = "SOCK")
@@ -234,10 +234,24 @@ doit <-
 		gaussmax[[i]] = max(mergegauss$V4);
 		
 		do <- do_timeline3(mergegauss)
-		colnames(do) = c("avg.dif", "stdev.dif", "sites.used", "num_tax", "altitude", "avg.per")
+		colnames(do) = c("avg.dif", "stdev", "sites.used", "num_tax", "altitude", "avg.per")
 		return(do)
 	}
 parallel::stopCluster(cl)
+
+dir.create('timeseries')
+for(i in 1:length(doit)){
+  subvars = c(284, 324, 294, 274, 364, 404)
+  submat = doit[[i]][,1:3]
+  if(i %in% c(1,2,3)){
+    #convert to degrees C by /10
+    submat[,1:2] = submat[,1:2]/10
+  }
+  submat=cbind((500:0)/10, submat)
+  colnames(submat)[1] = 'ka'
+  write.table(submat, file = paste('timeseries/', varlist[subvars[[i]]], '.tab', sep =''), row.names=F, sep='\t')
+  
+}
 
 ## build collection matrix to match doit object list
 filegauss = files[grep(varlist[[1]], files)]
@@ -247,7 +261,7 @@ mat = matrix(nrow=nrow(mergegauss), ncol = 13)
 mat = as.data.frame(mat)
 ###
 cc=2
-for(i in c(284, 324, 294, 274, 364, 404, 94)){
+for(i in c(284, 324, 294, 274, 364, 404)){
 	print(varlist[[i]]);
 	filegauss = files[grep(varlist[[i]], files)]
 	
